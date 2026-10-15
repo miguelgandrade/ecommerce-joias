@@ -28,7 +28,9 @@ $brand_story_background = sanitize_hex_color(
 $featured_categories = get_terms(
 	array(
 		'taxonomy'   => 'product_cat',
-		'hide_empty' => true,
+		// Mostra as categorias da coleção mesmo antes de receberem produtos.
+		'hide_empty' => false,
+		'exclude'    => array( absint( get_option( 'default_product_cat' ) ) ),
 		'number'     => 0,
 		'orderby'    => 'count',
 		'order'      => 'DESC',
@@ -57,6 +59,7 @@ if ( $hero_image_id ) {
 			'decoding'      => 'async',
 			'fetchpriority' => 'high',
 			'loading'       => 'eager',
+			'sizes'         => '100vw',
 		)
 	);
 }
@@ -86,7 +89,7 @@ get_header();
 	<section class="nc-hero" style="--nc-home-next-background:<?php echo esc_attr( $hero_next_background ); ?>;">
 		<?php if ( $hero_image ) : ?>
 			<div class="nc-hero__media" aria-hidden="true">
-				<?php echo wp_kses_post( $hero_image ); ?>
+				<?php echo $hero_image; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- HTML gerado por wp_get_attachment_image preserva srcset e fetchpriority. ?>
 			</div>
 		<?php endif; ?>
 
@@ -135,17 +138,16 @@ get_header();
 							<div class="nc-category-card__media">
 								<?php if ( $thumbnail_id ) : ?>
 									<?php
-									echo wp_kses_post(
-										wp_get_attachment_image(
-											$thumbnail_id,
-											'woocommerce_thumbnail',
-											false,
-											array(
-												'alt'     => '',
-												'loading' => 'lazy',
-											)
+									echo wp_get_attachment_image(
+										$thumbnail_id,
+										'woocommerce_thumbnail',
+										false,
+										array(
+											'alt'     => '',
+											'loading' => 'lazy',
+											'sizes'   => '(max-width: 480px) 60vw, 280px',
 										)
-									);
+									); // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- HTML produzido pelo WordPress.
 									?>
 								<?php else : ?>
 									<span aria-hidden="true">✦</span>
@@ -178,22 +180,31 @@ get_header();
 
 			<div class="nc-featured-product-grid">
 				<?php foreach ( $featured_products as $product_index => $featured_product ) : ?>
+					<?php $product_has_image = wp_attachment_is_image( $featured_product->get_image_id() ); ?>
 					<article class="nc-featured-product" data-home-reveal style="--nc-home-reveal-delay:<?php echo esc_attr( $product_index * 70 ); ?>ms;">
 						<a
-							class="nc-featured-product__media"
+							class="nc-featured-product__media<?php echo $product_has_image ? '' : ' nc-featured-product__media--placeholder'; ?>"
 							href="<?php echo esc_url( $featured_product->get_permalink() ); ?>"
+							aria-label="<?php echo esc_attr( sprintf( __( 'Ver %s', 'ecommerce-joias' ), $featured_product->get_name() ) ); ?>"
 						>
+							<?php if ( ! $featured_product->is_in_stock() ) : ?>
+								<span class="nc-featured-product__badge"><?php esc_html_e( 'Esgotado', 'ecommerce-joias' ); ?></span>
+							<?php elseif ( $featured_product->is_on_sale() ) : ?>
+								<span class="nc-featured-product__badge"><?php esc_html_e( 'Promoção', 'ecommerce-joias' ); ?></span>
+							<?php endif; ?>
 							<?php
-							echo wp_kses_post(
-								$featured_product->get_image(
-									'woocommerce_thumbnail',
-									array(
-										'alt'     => $featured_product->get_name(),
-										'loading' => 'lazy',
-									)
+								echo $featured_product->get_image(
+								'woocommerce_thumbnail',
+								array(
+									'alt'     => '',
+									'loading' => 'lazy',
+									'sizes'   => '(max-width: 480px) 45vw, 260px',
 								)
-							);
+								); // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- HTML produzido pelo WooCommerce.
 							?>
+							<?php if ( ! $product_has_image ) : ?>
+								<span class="nc-featured-product__photo-note"><?php esc_html_e( 'Foto indisponível', 'ecommerce-joias' ); ?></span>
+							<?php endif; ?>
 						</a>
 
 						<div class="nc-featured-product__content">
@@ -210,6 +221,7 @@ get_header();
 							<a
 								class="nc-featured-product__link"
 								href="<?php echo esc_url( $featured_product->get_permalink() ); ?>"
+								aria-label="<?php echo esc_attr( sprintf( __( '%1$s: %2$s', 'ecommerce-joias' ), get_theme_mod( 'ecommerce_joias_store_view_product_label', 'Ver produto' ), $featured_product->get_name() ) ); ?>"
 							>
 								<?php echo esc_html( get_theme_mod( 'ecommerce_joias_store_view_product_label', 'Ver produto' ) ); ?>
 							</a>
@@ -252,7 +264,7 @@ get_header();
 
 			<div class="nc-brand-story__art" aria-hidden="true" data-home-reveal>
 				<?php if ( $brand_story_image ) : ?>
-					<?php echo wp_kses_post( $brand_story_image ); ?>
+					<?php echo $brand_story_image; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- HTML produzido por wp_get_attachment_image. ?>
 				<?php else : ?>
 					<span>✦</span>
 				<?php endif; ?>

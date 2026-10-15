@@ -1,57 +1,57 @@
 (() => {
-	const hero = document.querySelector(".nc-hero");
-	const heroMedia = document.querySelector(".nc-hero__media");
+	const banner = document.querySelector(".nc-hero");
+	const camadaDoBanner = document.querySelector(".nc-hero__media");
 
-	if (!hero || !heroMedia) {
+	if (!banner || !camadaDoBanner) {
 		return;
 	}
 
-	const motionPreference = window.matchMedia(
+	const condicaoDeMovimento = window.matchMedia(
 		"(min-width: 768px) and (prefers-reduced-motion: no-preference)"
 	);
 
-	let animationFrame;
+	let quadroDoParallax;
 
-	const updateParallax = () => {
-		animationFrame = undefined;
+	const atualizarParallax = () => {
+		quadroDoParallax = undefined;
 
-		if (!motionPreference.matches) {
-			heroMedia.style.transform = "";
+		if (!condicaoDeMovimento.matches) {
+			camadaDoBanner.style.transform = "";
 			return;
 		}
 
-		const heroPosition = hero.getBoundingClientRect();
+		const limitesDoBanner = banner.getBoundingClientRect();
 
 		if (
-			heroPosition.bottom < 0 ||
-			heroPosition.top > window.innerHeight
+			limitesDoBanner.bottom < 0 ||
+			limitesDoBanner.top > window.innerHeight
 		) {
 			return;
 		}
 
-		const progress =
-			(window.innerHeight - heroPosition.top) /
-			(window.innerHeight + heroPosition.height);
+		const progresso =
+			(window.innerHeight - limitesDoBanner.top) /
+			(window.innerHeight + limitesDoBanner.height);
 
 		// Movimento ampliado temporariamente para facilitar a avaliação visual do parallax.
-		const offset = (progress - 0.5) * 480;
+		const deslocamento = (progresso - 0.5) * 480;
 
-		heroMedia.style.transform = `translate3d(0, ${offset.toFixed(2)}px, 0)`;
+		camadaDoBanner.style.transform = `translate3d(0, ${deslocamento.toFixed(2)}px, 0)`;
 	};
 
-	const requestParallaxUpdate = () => {
-		if (!animationFrame) {
-			animationFrame = window.requestAnimationFrame(updateParallax);
+	const solicitarAtualizacaoParallax = () => {
+		if (!quadroDoParallax) {
+			quadroDoParallax = window.requestAnimationFrame(atualizarParallax);
 		}
 	};
 
-	window.addEventListener("scroll", requestParallaxUpdate, {
+	window.addEventListener("scroll", solicitarAtualizacaoParallax, {
 		passive: true,
 	});
 
-	window.addEventListener("resize", requestParallaxUpdate);
+	window.addEventListener("resize", solicitarAtualizacaoParallax);
 
-	motionPreference.addEventListener("change", requestParallaxUpdate);
+	condicaoDeMovimento.addEventListener("change", solicitarAtualizacaoParallax);
 
-	requestParallaxUpdate();
+	solicitarAtualizacaoParallax();
 })();

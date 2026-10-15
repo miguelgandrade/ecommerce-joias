@@ -5,6 +5,11 @@
 
 defined( 'ABSPATH' ) || exit;
 
+require_once get_stylesheet_directory() . '/inc/header-categories.php';
+require_once get_stylesheet_directory() . '/inc/product-images.php';
+require_once get_stylesheet_directory() . '/inc/product-catalog.php';
+require_once get_stylesheet_directory() . '/inc/catalog-views.php';
+
 /**
  * Carrega os estilos próprios depois do CSS e das opções visuais do Orchid Store.
  */
@@ -83,14 +88,16 @@ function ecommerce_joias_preload_hero_image() {
 
 	$hero_image_id = absint( get_theme_mod( 'ecommerce_joias_hero_image', 0 ) );
 	$hero_image_url = $hero_image_id ? wp_get_attachment_image_url( $hero_image_id, 'full' ) : false;
+	$hero_image_srcset = $hero_image_id ? wp_get_attachment_image_srcset( $hero_image_id, 'full' ) : false;
 
 	if ( ! $hero_image_url ) {
 		return;
 	}
 
 	printf(
-		'<link rel="preload" as="image" href="%s" fetchpriority="high">' . "\n",
-		esc_url( $hero_image_url )
+		'<link rel="preload" as="image" href="%s"%s fetchpriority="high">' . "\n",
+		esc_url( $hero_image_url ),
+		$hero_image_srcset ? ' imagesrcset="' . esc_attr( $hero_image_srcset ) . '" imagesizes="100vw"' : ''
 	);
 }
 add_action( 'wp_head', 'ecommerce_joias_preload_hero_image', 1 );

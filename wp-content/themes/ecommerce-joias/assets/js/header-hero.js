@@ -1,37 +1,38 @@
 (() => {
-	const header = document.querySelector('.nc-header[data-hero-overlay="true"]');
-	const hero = document.querySelector('.nc-hero, .nc-about-hero');
-	if (!header || !hero) return;
-	let frame;
-	const measure = () => {
-		document.documentElement.style.setProperty('--nc-overlay-header-height', `${header.offsetHeight}px`);
+	const cabecalho = document.querySelector('.nc-header[data-hero-overlay="true"]');
+	const banner = document.querySelector('.nc-hero, .nc-about-hero');
+	if (!cabecalho || !banner) return;
+	let quadroAgendado;
+	const medirCabecalho = () => {
+		document.documentElement.style.setProperty('--nc-overlay-header-height', `${cabecalho.offsetHeight}px`);
 	};
-	const update = () => {
-		frame = undefined;
-		const adminBar = document.getElementById('wpadminbar');
-		if (adminBar && window.matchMedia('(max-width: 600px)').matches) {
-			header.style.top = `${Math.max(0, adminBar.getBoundingClientRect().bottom)}px`;
+	const atualizar = () => {
+		quadroAgendado = undefined;
+		const barraAdministrativa = document.getElementById('wpadminbar');
+		if (barraAdministrativa && window.matchMedia('(max-width: 600px)').matches) {
+			cabecalho.style.top = `${Math.max(0, barraAdministrativa.getBoundingClientRect().bottom)}px`;
 		} else {
-			header.style.top = '';
+			cabecalho.style.top = '';
 		}
-		// Restore the normal header when the hero no longer fills its backdrop.
-		header.classList.toggle('nc-header--over-hero', hero.getBoundingClientRect().bottom > header.getBoundingClientRect().bottom + 1);
+		// Restaura o cabeçalho normal quando o banner deixa de preencher seu fundo.
+		const permiteSobreposicao = window.matchMedia('(min-width: 641px)').matches;
+		cabecalho.classList.toggle('nc-header--over-hero', permiteSobreposicao && banner.getBoundingClientRect().bottom > cabecalho.getBoundingClientRect().bottom + 1);
 	};
-	const requestUpdate = () => {
-		if (frame === undefined) frame = window.requestAnimationFrame(update);
+	const solicitarAtualizacao = () => {
+		if (quadroAgendado === undefined) quadroAgendado = window.requestAnimationFrame(atualizar);
 	};
-	measure();
-	header.classList.add('nc-header--hero-enabled');
+	medirCabecalho();
+	cabecalho.classList.add('nc-header--hero-enabled');
 	document.documentElement.classList.add('nc-has-overlay-header');
-	update();
-	window.addEventListener('scroll', requestUpdate, { passive: true });
+	atualizar();
+	window.addEventListener('scroll', solicitarAtualizacao, { passive: true });
 	window.addEventListener('resize', () => {
-		measure();
-		requestUpdate();
+		medirCabecalho();
+		solicitarAtualizacao();
 	});
-	window.addEventListener('pageshow', requestUpdate);
+	window.addEventListener('pageshow', solicitarAtualizacao);
 	if ('ResizeObserver' in window) new ResizeObserver(() => {
-		measure();
-		requestUpdate();
-	}).observe(header);
+		medirCabecalho();
+		solicitarAtualizacao();
+	}).observe(cabecalho);
 })();

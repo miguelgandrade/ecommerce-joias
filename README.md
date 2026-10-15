@@ -55,3 +55,80 @@ como `after_setup_theme`, com prioridade adequada.
 Produtos, textos, imagens, menus e opções disponíveis no Personalizador são
 gerenciados no painel do WordPress. Regras de negócio que precisam continuar
 funcionando ao trocar de tema devem ficar em um plugin próprio.
+
+### Página Sobre a loja
+
+Em **Aparência → Personalizar → Sobre a loja**, configure os textos da abertura,
+história, valores, informações e encerramento; as três fotos; as cores de fundo,
+destaque e texto; e o texto e endereço do botão final. O link vazio usa a página
+Produtos, com a loja WooCommerce como alternativa.
+
+Os controles também permitem ajustar altura da abertura, posição vertical das
+fotos, escurecimento e intensidade do parallax, além de ativar ou desativar
+parallax, entradas suaves, movimento dos cartões, foto fixa da história e
+encerramento. A foto fixa da história começa desativada. Parallax e foto fixa
+funcionam no computador; a preferência por movimento reduzido desativa animações.
+Sem fotos, abertura e encerramento exibem fundo suave e mantêm o texto visível.
+
+O template atende à página com endereço `sobre-a-loja` ou pode ser escolhido como
+**Sobre a loja** nas configurações de outra página. O texto adicional do editor
+continua disponível abaixo das seções.
+
+A foto da história (ou o bloco NC, quando não há foto) tem um efeito de pop-up
+mais marcado: começa menor, sobe 64px, amplia um pouco além do tamanho final
+e se acomoda. Por padrão, espera a área alcançar aproximadamente o meio da tela.
+Em **Sobre a loja**, os controles **Efeito pop-up na foto / bloco NC**,
+**Intensidade do pop-up da foto** e **Duração do pop-up da foto** ajustam esse
+efeito independentemente das entradas dos demais textos. **Quanto descer a tela
+antes do pop-up** ajusta o momento de entrada; quanto maior o valor, mais tarde
+aparece. O efeito se prepara novamente ao voltar ao início ou quando a área
+fica abaixo da tela, repetindo ao descer de novo. As demais entradas continuam
+acontecendo uma vez, e movimento reduzido mantém tudo visível.
+
+### Cards de produto
+
+Em **Aparência → Personalizar → Cards de produto**, ajuste as cores do fundo,
+área da foto, borda, nome e preço, além do arredondamento dos cantos. Os controles
+valem para os destaques da home e cards WooCommerce. O texto “Ver produto” da
+home segue **Loja NC → Texto para visualizar produto**. Fotos, nomes e preços
+continuam sendo gerenciados no cadastro dos produtos.
+
+### Cabeçalho transparente
+
+Em **Aparência → Personalizar → Cabeçalho NC**, a opção **Cabeçalho transparente
+sobre o hero com foto** sobrepõe a navegação à abertura da home e do Sobre. Quando
+a abertura sai de trás do cabeçalho, o fundo e as cores normais retornam. Páginas
+sem foto de abertura mantêm o cabeçalho normal. A cor de texto sobre a home tem
+controle próprio; no Sobre, segue a cor **Textos sobre as fotos** dessa página.
+
+### Carrossel de categorias
+
+Em **Aparência → Personalizar → Página inicial**, a opção **Exibir categorias
+em carrossel** alterna entre navegação horizontal e grade. Os cards têm largura
+inicial de 200px e fotos quadradas. O movimento é contínuo em loop, pausa ao
+passar o mouse e retoma ao sair. As setas laterais aparecem ao passar o mouse ou
+focar com o teclado; em telas de toque ficam visíveis. Elas avançam um card por
+vez. O painel permite ajustar largura, velocidade e movimento automático.
+Há também um botão para pausar permanentemente até escolher retomar.
+No celular, é possível deslizar. Foco por teclado e interação por toque pausam o
+movimento; fora da tela ou com a aba oculta, a animação para. Movimento reduzido
+desativa a rotação automática e mantém as setas. Uma única categoria fica estática.
+Todas as categorias com produtos participam, ordenadas pela quantidade de
+produtos. Nomes e fotos são editados em **Produtos → Categorias**.
+
+### Vitrine e transições da home
+
+Em **Aparência → Personalizar → Página inicial**, ajuste a largura máxima dos
+cards de produtos da home (216px por padrão), os fundos de categorias e produtos
+e a altura dos degradês entre seções. A vitrine tem fotos quadradas e centraliza
+os produtos, com adaptação para telas pequenas. Os cards WooCommerce de outras
+páginas continuam seguindo os controles de **Cards de produto**.
+
+As opções **Suavizar as mudanças de fundo entre seções** e **Entrada suave dos
+títulos e cards ao rolar** são independentes. As entradas acontecem uma vez;
+conteúdo já visível, foco de teclado, movimento reduzido e ausência de JavaScript
+mantêm os elementos acessíveis. Os degradês acompanham as cores das seções
+presentes, incluindo o fechamento junto ao rodapé.
+
+As referências e a adaptação de design estão em
+[referencias-transicoes-home.md](docs/referencias-transicoes-home.md).

@@ -1,0 +1,1016 @@
+[
+  {
+    "largura": 390,
+    "larguraDocumento": 390,
+    "metricas": {
+      "lcp": 896,
+      "cls": 0
+    },
+    "imagens": [
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/10/depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-600x338.jpg",
+        "carregada": true,
+        "loading": "eager",
+        "prioridade": "high"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/10/37-600x600.avif",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/plugins/woocommerce/assets/images/placeholder.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/plugins/woocommerce/assets/images/placeholder.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-600x602.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      }
+    ],
+    "recursos": [
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-600x338.jpg",
+        "tamanho": 88837,
+        "duracao": 10
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "tamanho": 3795,
+        "duracao": 14
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+        "tamanho": 12080,
+        "duracao": 15
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "tamanho": 1723,
+        "duracao": 14
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/orchid-store/assets/fonts/boxicons/boxicons.css?ver=1.5.17",
+        "tamanho": 9761,
+        "duracao": 630
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/style.css?ver=1792026616",
+        "tamanho": 12198,
+        "duracao": 23
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=11.1.2",
+        "tamanho": 5107,
+        "duracao": 24
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=11.1.2",
+        "tamanho": 1450,
+        "duracao": 23
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/header-categories.js?ver=1792015910",
+        "tamanho": 701,
+        "duracao": 26
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/hero-parallax.js?ver=1792007118",
+        "tamanho": 920,
+        "duracao": 27
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/header-hero.js?ver=1792026592",
+        "tamanho": 998,
+        "duracao": 28
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/home-sections.js?ver=1792007118",
+        "tamanho": 958,
+        "duracao": 28
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/category-carousel.js?ver=1792011425",
+        "tamanho": 2450,
+        "duracao": 29
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/back-to-top.js?ver=1792007118",
+        "tamanho": 638,
+        "duracao": 29
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/orchid-store/assets/fonts/boxicons/boxicons.woff2",
+        "tamanho": 75012,
+        "duracao": 54
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "tamanho": 11097,
+        "duracao": 5
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "tamanho": 6990,
+        "duracao": 9
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "tamanho": 22632,
+        "duracao": 8
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "tamanho": 5412,
+        "duracao": 9
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "tamanho": 14286,
+        "duracao": 9
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/37-300x300.avif",
+        "tamanho": 11102,
+        "duracao": 9
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/images/placeholder.webp",
+        "tamanho": 6300,
+        "duracao": 10
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-600x602.webp",
+        "tamanho": 22108,
+        "duracao": 16
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "tamanho": 16995,
+        "duracao": 8
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "tamanho": 11393,
+        "duracao": 8
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "tamanho": 38628,
+        "duracao": 10
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "tamanho": 15912,
+        "duracao": 9
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/37-600x600.avif",
+        "tamanho": 33608,
+        "duracao": 10
+      },
+      {
+        "nome": "http://localhost:8080/wp-includes/js/wp-emoji-release.min.js?ver=7.1.2",
+        "tamanho": 5686,
+        "duracao": 4
+      }
+    ],
+    "cabecalho": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 140.390625,
+      "top": 0,
+      "right": 390,
+      "bottom": 140.390625,
+      "left": 0
+    },
+    "banner": {
+      "x": 0,
+      "y": 140.390625,
+      "width": 390,
+      "height": 480,
+      "top": 140.390625,
+      "right": 390,
+      "bottom": 620.390625,
+      "left": 0
+    },
+    "erros": [],
+    "falhas": []
+  },
+  {
+    "largura": 320,
+    "larguraDocumento": 320,
+    "metricas": {
+      "lcp": 488,
+      "cls": 0
+    },
+    "imagens": [
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/10/depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-600x338.jpg",
+        "carregada": true,
+        "loading": "eager",
+        "prioridade": "high"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/10/37-600x600.avif",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/plugins/woocommerce/assets/images/placeholder.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/plugins/woocommerce/assets/images/placeholder.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-600x602.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      }
+    ],
+    "recursos": [
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-600x338.jpg",
+        "tamanho": 88837,
+        "duracao": 13
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "tamanho": 3795,
+        "duracao": 29
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "tamanho": 1723,
+        "duracao": 21
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+        "tamanho": 12080,
+        "duracao": 34
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/orchid-store/assets/fonts/boxicons/boxicons.css?ver=1.5.17",
+        "tamanho": 9761,
+        "duracao": 32
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/style.css?ver=1792026616",
+        "tamanho": 12198,
+        "duracao": 39
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=11.1.2",
+        "tamanho": 5107,
+        "duracao": 42
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=11.1.2",
+        "tamanho": 1450,
+        "duracao": 41
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/header-categories.js?ver=1792015910",
+        "tamanho": 701,
+        "duracao": 58
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/hero-parallax.js?ver=1792007118",
+        "tamanho": 920,
+        "duracao": 56
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/header-hero.js?ver=1792026592",
+        "tamanho": 998,
+        "duracao": 59
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/home-sections.js?ver=1792007118",
+        "tamanho": 958,
+        "duracao": 57
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/category-carousel.js?ver=1792011425",
+        "tamanho": 2450,
+        "duracao": 65
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/back-to-top.js?ver=1792007118",
+        "tamanho": 638,
+        "duracao": 63
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/orchid-store/assets/fonts/boxicons/boxicons.woff2",
+        "tamanho": 75012,
+        "duracao": 74
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "tamanho": 11097,
+        "duracao": 10
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "tamanho": 6990,
+        "duracao": 9
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "tamanho": 22632,
+        "duracao": 12
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "tamanho": 5412,
+        "duracao": 12
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "tamanho": 14286,
+        "duracao": 32
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/37-300x300.avif",
+        "tamanho": 11102,
+        "duracao": 32
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/images/placeholder.webp",
+        "tamanho": 6300,
+        "duracao": 31
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-5-150x150.jpg",
+        "tamanho": 3978,
+        "duracao": 29
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-150x150.webp",
+        "tamanho": 2388,
+        "duracao": 30
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-600x602.webp",
+        "tamanho": 22108,
+        "duracao": 37
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "tamanho": 16995,
+        "duracao": 5
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "tamanho": 11393,
+        "duracao": 5
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "tamanho": 38628,
+        "duracao": 8
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "tamanho": 15912,
+        "duracao": 8
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/37-600x600.avif",
+        "tamanho": 33608,
+        "duracao": 8
+      },
+      {
+        "nome": "http://localhost:8080/wp-includes/js/wp-emoji-release.min.js?ver=7.1.2",
+        "tamanho": 5686,
+        "duracao": 5
+      }
+    ],
+    "cabecalho": {
+      "x": 0,
+      "y": 0,
+      "width": 320,
+      "height": 140.390625,
+      "top": 0,
+      "right": 320,
+      "bottom": 140.390625,
+      "left": 0
+    },
+    "banner": {
+      "x": 0,
+      "y": 140.390625,
+      "width": 320,
+      "height": 480,
+      "top": 140.390625,
+      "right": 320,
+      "bottom": 620.390625,
+      "left": 0
+    },
+    "erros": [],
+    "falhas": []
+  },
+  {
+    "largura": 768,
+    "larguraDocumento": 768,
+    "metricas": {
+      "lcp": 1036,
+      "cls": 0.000010178755144032921
+    },
+    "imagens": [
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/10/depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-768x432.jpg",
+        "carregada": true,
+        "loading": "eager",
+        "prioridade": "high"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-768x768.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/10/37-768x768.avif",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/plugins/woocommerce/assets/images/placeholder.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-768x768.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/plugins/woocommerce/assets/images/placeholder.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-768x770.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      }
+    ],
+    "recursos": [
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-768x432.jpg",
+        "tamanho": 99180,
+        "duracao": 7
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "tamanho": 3795,
+        "duracao": 12
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "tamanho": 1723,
+        "duracao": 11
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+        "tamanho": 12080,
+        "duracao": 15
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/orchid-store/assets/fonts/boxicons/boxicons.css?ver=1.5.17",
+        "tamanho": 9761,
+        "duracao": 15
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/style.css?ver=1792026616",
+        "tamanho": 12198,
+        "duracao": 18
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=11.1.2",
+        "tamanho": 5107,
+        "duracao": 17
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=11.1.2",
+        "tamanho": 1450,
+        "duracao": 17
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/hero-parallax.js?ver=1792007118",
+        "tamanho": 920,
+        "duracao": 27
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/header-categories.js?ver=1792015910",
+        "tamanho": 701,
+        "duracao": 27
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/header-hero.js?ver=1792026592",
+        "tamanho": 998,
+        "duracao": 31
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/home-sections.js?ver=1792007118",
+        "tamanho": 958,
+        "duracao": 31
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/category-carousel.js?ver=1792011425",
+        "tamanho": 2450,
+        "duracao": 31
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/back-to-top.js?ver=1792007118",
+        "tamanho": 638,
+        "duracao": 32
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/orchid-store/assets/fonts/boxicons/boxicons.woff2",
+        "tamanho": 75012,
+        "duracao": 41
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "tamanho": 11097,
+        "duracao": 9
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "tamanho": 6990,
+        "duracao": 10
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "tamanho": 22632,
+        "duracao": 10
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "tamanho": 5412,
+        "duracao": 10
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "tamanho": 14286,
+        "duracao": 13
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/37-300x300.avif",
+        "tamanho": 11102,
+        "duracao": 14
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/images/placeholder.webp",
+        "tamanho": 6300,
+        "duracao": 15
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-768x770.webp",
+        "tamanho": 30820,
+        "duracao": 16
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "tamanho": 16995,
+        "duracao": 9
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "tamanho": 11393,
+        "duracao": 12
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "tamanho": 38628,
+        "duracao": 12
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-768x768.webp",
+        "tamanho": 23572,
+        "duracao": 13
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/37-768x768.avif",
+        "tamanho": 49276,
+        "duracao": 12
+      },
+      {
+        "nome": "http://localhost:8080/wp-includes/js/wp-emoji-release.min.js?ver=7.1.2",
+        "tamanho": 5686,
+        "duracao": 4
+      }
+    ],
+    "cabecalho": {
+      "x": 0,
+      "y": 0,
+      "width": 768,
+      "height": 64.796875,
+      "top": 0,
+      "right": 768,
+      "bottom": 64.796875,
+      "left": 0
+    },
+    "banner": {
+      "x": 0,
+      "y": 0,
+      "width": 768,
+      "height": 648,
+      "top": 0,
+      "right": 768,
+      "bottom": 648,
+      "left": 0
+    },
+    "erros": [],
+    "falhas": []
+  },
+  {
+    "largura": 1366,
+    "larguraDocumento": 1366,
+    "metricas": {
+      "lcp": 356,
+      "cls": 0.000003770483095826244
+    },
+    "imagens": [
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/10/depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-1536x864.jpg",
+        "carregada": true,
+        "loading": "eager",
+        "prioridade": "high"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/10/37.avif",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/plugins/woocommerce/assets/images/placeholder.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/plugins/woocommerce/assets/images/placeholder.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      },
+      {
+        "url": "http://localhost:8080/wp-content/uploads/2026/09/brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-768x770.webp",
+        "carregada": true,
+        "loading": "lazy",
+        "prioridade": "auto"
+      }
+    ],
+    "recursos": [
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-1536x864.jpg",
+        "tamanho": 158799,
+        "duracao": 27
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "tamanho": 3795,
+        "duracao": 20
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+        "tamanho": 12080,
+        "duracao": 22
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/orchid-store/assets/fonts/boxicons/boxicons.css?ver=1.5.17",
+        "tamanho": 9761,
+        "duracao": 21
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/style.css?ver=1792026616",
+        "tamanho": 12198,
+        "duracao": 15
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=11.1.2",
+        "tamanho": 5107,
+        "duracao": 34
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=11.1.2",
+        "tamanho": 1450,
+        "duracao": 34
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/header-categories.js?ver=1792015910",
+        "tamanho": 701,
+        "duracao": 33
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/hero-parallax.js?ver=1792007118",
+        "tamanho": 920,
+        "duracao": 33
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/header-hero.js?ver=1792026592",
+        "tamanho": 998,
+        "duracao": 33
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/home-sections.js?ver=1792007118",
+        "tamanho": 958,
+        "duracao": 38
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/category-carousel.js?ver=1792011425",
+        "tamanho": 2450,
+        "duracao": 43
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/ecommerce-joias/assets/js/back-to-top.js?ver=1792007118",
+        "tamanho": 638,
+        "duracao": 44
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "tamanho": 1723,
+        "duracao": 34
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/themes/orchid-store/assets/fonts/boxicons/boxicons.woff2",
+        "tamanho": 75012,
+        "duracao": 45
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "tamanho": 11097,
+        "duracao": 8
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "tamanho": 6990,
+        "duracao": 11
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "tamanho": 22632,
+        "duracao": 12
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "tamanho": 5412,
+        "duracao": 12
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "tamanho": 14286,
+        "duracao": 12
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/37-300x300.avif",
+        "tamanho": 11102,
+        "duracao": 13
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/plugins/woocommerce/assets/images/placeholder.webp",
+        "tamanho": 6300,
+        "duracao": 17
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-768x770.webp",
+        "tamanho": 30820,
+        "duracao": 18
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "tamanho": 16995,
+        "duracao": 10
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "tamanho": 11393,
+        "duracao": 12
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "tamanho": 38628,
+        "duracao": 11
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689.webp",
+        "tamanho": 37094,
+        "duracao": 11
+      },
+      {
+        "nome": "http://localhost:8080/wp-content/uploads/2026/10/37.avif",
+        "tamanho": 55961,
+        "duracao": 12
+      },
+      {
+        "nome": "http://localhost:8080/wp-includes/js/wp-emoji-release.min.js?ver=7.1.2",
+        "tamanho": 5686,
+        "duracao": 4
+      }
+    ],
+    "cabecalho": {
+      "x": 0,
+      "y": 0,
+      "width": 1366,
+      "height": 64.796875,
+      "top": 0,
+      "right": 1366,
+      "bottom": 64.796875,
+      "left": 0
+    },
+    "banner": {
+      "x": 0,
+      "y": 0,
+      "width": 1366,
+      "height": 738.671875,
+      "top": 0,
+      "right": 1366,
+      "bottom": 738.671875,
+      "left": 0
+    },
+    "erros": [],
+    "falhas": []
+  }
+]

@@ -12,9 +12,10 @@ defined( 'ABSPATH' ) || exit;
 
 $account_page_id = function_exists( 'wc_get_page_id' ) ? wc_get_page_id( 'myaccount' ) : 0;
 $account_label   = get_theme_mod( 'ecommerce_joias_store_account_menu_label', 'Minha conta' );
+$header_has_hero = ecommerce_joias_has_header_hero();
 ?>
 <!doctype html>
-<html <?php language_attributes(); ?>>
+<html <?php language_attributes(); ?><?php if ( $header_has_hero ) : ?> class="nc-has-overlay-header"<?php endif; ?>>
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,7 +30,7 @@ $account_label   = get_theme_mod( 'ecommerce_joias_store_account_menu_label', 'M
 			<?php esc_html_e( 'Pular para o conteúdo', 'ecommerce-joias' ); ?>
 		</a>
 
-		<header class="nc-header" id="masthead"<?php if ( ecommerce_joias_has_header_hero() ) : ?> data-hero-overlay="true"<?php if ( ! is_front_page() ) : ?> style="--nc-header-hero-text:<?php echo esc_attr( sanitize_hex_color( get_theme_mod( 'ecommerce_joias_about_photo_text', '#ffffff' ) ) ?: '#ffffff' ); ?>"<?php endif; ?><?php endif; ?>>
+		<header class="nc-header<?php echo $header_has_hero ? ' nc-header--hero-enabled' : ''; ?>" id="masthead"<?php if ( $header_has_hero ) : ?> data-hero-overlay="true"<?php if ( ! is_front_page() ) : ?> style="--nc-header-hero-text:<?php echo esc_attr( sanitize_hex_color( get_theme_mod( 'ecommerce_joias_about_photo_text', '#ffffff' ) ) ?: '#ffffff' ); ?>"<?php endif; ?><?php endif; ?>>
 			<div class="nc-header__row">
 				<div class="nc-header__brand">
 					<?php if ( has_custom_logo() ) : ?>
@@ -42,6 +43,7 @@ $account_label   = get_theme_mod( 'ecommerce_joias_store_account_menu_label', 'M
 				</div>
 
 				<nav class="nc-header__navigation" aria-label="<?php esc_attr_e( 'Navegação principal', 'ecommerce-joias' ); ?>">
+					<ul class="nc-header__menu">
 					<?php
 					wp_nav_menu(
 						array(
@@ -49,9 +51,29 @@ $account_label   = get_theme_mod( 'ecommerce_joias_store_account_menu_label', 'M
 							'container'      => false,
 							'menu_class'     => 'nc-header__menu',
 							'fallback_cb'    => false,
+							'items_wrap'     => '%3$s',
 						)
 					);
 					?>
+					<?php $header_categories = ecommerce_joias_get_header_categories(); ?>
+					<?php if ( $header_categories ) : ?>
+						<li class="menu-item nc-header__categories">
+							<details class="nc-header__category-dropdown">
+								<summary><?php esc_html_e( 'Categorias', 'ecommerce-joias' ); ?> <span aria-hidden="true">⌄</span></summary>
+								<ul class="nc-header__category-submenu">
+									<?php foreach ( $header_categories as $header_category ) : ?>
+										<?php $category_url = get_term_link( $header_category ); ?>
+										<?php if ( ! is_wp_error( $category_url ) ) : ?>
+											<li<?php if ( is_tax( 'product_cat', $header_category->term_id ) ) : ?> class="current-menu-item"<?php endif; ?>>
+												<a href="<?php echo esc_url( $category_url ); ?>"<?php if ( is_tax( 'product_cat', $header_category->term_id ) ) : ?> aria-current="page"<?php endif; ?>><?php echo esc_html( $header_category->name ); ?></a>
+											</li>
+										<?php endif; ?>
+									<?php endforeach; ?>
+								</ul>
+							</details>
+						</li>
+					<?php endif; ?>
+					</ul>
 				</nav>
 
 				<div class="nc-header__utilities">

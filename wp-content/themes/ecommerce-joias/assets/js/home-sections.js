@@ -1,45 +1,45 @@
 (() => {
-	const page = document.querySelector('.nc-home-page');
-	if (!page) return;
-	const elements = [...page.querySelectorAll('[data-home-reveal]')];
-	const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
-	const revealed = new WeakSet();
-	let observer;
+	const pagina = document.querySelector('.nc-home-page');
+	if (!pagina) return;
+	const elementos = [...pagina.querySelectorAll('[data-home-reveal]')];
+	const movimentoReduzido = window.matchMedia('(prefers-reduced-motion: reduce)');
+	const elementosRevelados = new WeakSet();
+	let observador;
 
-	const show = element => {
-		element.classList.remove('nc-home-reveal--waiting');
-		revealed.add(element);
-		observer?.unobserve(element);
+	const mostrarElemento = elemento => {
+		elemento.classList.remove('nc-home-reveal--waiting');
+		elementosRevelados.add(elemento);
+		observador?.unobserve(elemento);
 	};
-	const configure = () => {
-		observer?.disconnect();
-		elements.forEach(element => element.classList.remove('nc-home-reveal--waiting'));
-		if (reducedMotion.matches || !('IntersectionObserver' in window)) return;
-		observer = new IntersectionObserver(entries => {
-			entries.forEach(entry => {
-				if (entry.isIntersecting) show(entry.target);
+	const configurarSecoes = () => {
+		observador?.disconnect();
+		elementos.forEach(elemento => elemento.classList.remove('nc-home-reveal--waiting'));
+		if (movimentoReduzido.matches || !('IntersectionObserver' in window)) return;
+		observador = new IntersectionObserver(entradas => {
+			entradas.forEach(entrada => {
+				if (entrada.isIntersecting) mostrarElemento(entrada.target);
 			});
 		}, { threshold: 0.08 });
-		elements.forEach(element => {
-			if (revealed.has(element)) return;
-			// Preserve content already visible when loading or restoring the page.
-			if (element.getBoundingClientRect().top < window.innerHeight) {
-				show(element);
+		elementos.forEach(elemento => {
+			if (elementosRevelados.has(elemento)) return;
+			// Preserva o conteúdo já visível ao carregar ou restaurar a página.
+			if (elemento.getBoundingClientRect().top < window.innerHeight) {
+				mostrarElemento(elemento);
 				return;
 			}
-			observer.observe(element);
-			element.classList.add('nc-home-reveal--waiting');
+			observador.observe(elemento);
+			elemento.classList.add('nc-home-reveal--waiting');
 		});
 	};
-	page.addEventListener('focusin', event => {
-		const element = event.target.closest('[data-home-reveal]');
-		if (element) show(element);
+	pagina.addEventListener('focusin', evento => {
+		const elemento = evento.target.closest('[data-home-reveal]');
+		if (elemento) mostrarElemento(elemento);
 	});
-	reducedMotion.addEventListener('change', configure);
+	movimentoReduzido.addEventListener('change', configurarSecoes);
 	window.addEventListener('pageshow', () => {
-		elements.forEach(element => {
-			if (element.getBoundingClientRect().top < window.innerHeight) show(element);
+		elementos.forEach(elemento => {
+			if (elemento.getBoundingClientRect().top < window.innerHeight) mostrarElemento(elemento);
 		});
 	});
-	configure();
+	configurarSecoes();
 })();
