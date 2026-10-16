@@ -11,3 +11,6 @@
 /wp-config.php
 *.log
 /.aws/
+
+# Tema antigo de referência, mantido apenas no computador.
+/my-theme/

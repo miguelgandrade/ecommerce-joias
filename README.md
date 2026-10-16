@@ -18,7 +18,8 @@ Desenvolver e evoluir um e-commerce de joias aplicando, na prática, os conceito
 
 O tema da loja fica em `wp-content/themes/ecommerce-joias` e herda o Orchid Store,
 que deve permanecer instalado em `wp-content/themes/orchid-store`.
-A pasta `my-theme` guarda apenas o trabalho anterior como referência.
+A pasta `my-theme`, quando presente, guarda o trabalho anterior apenas como
+referência local e não é versionada.
 
 Para iniciar o ambiente ou aplicar a alteração das montagens do Compose:
 
