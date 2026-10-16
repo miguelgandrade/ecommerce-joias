@@ -10,9 +10,25 @@ const fs = require('node:fs');
 			const page = await browser.newPage({ viewport: { width, height: 844 }, hasTouch: width <= 640 });
 			const errors = [];
 			page.on('pageerror', error => errors.push(error.message));
+			await page.addInitScript(() => {
+				window.ncHeaderLayoutShift = 0;
+				new PerformanceObserver(list => {
+					for (const entry of list.getEntries()) if (!entry.hadRecentInput) window.ncHeaderLayoutShift += entry.value;
+				}).observe({ type: 'layout-shift', buffered: true });
+			});
 			await page.goto('http://localhost:8080/?post_type=product&nc_vitrine=novidades', { waitUntil: 'networkidle' });
+			const initialLayoutShift = await page.evaluate(() => window.ncHeaderLayoutShift);
 			await page.evaluate(() => window.scrollTo(0, 800));
 			await page.waitForTimeout(150);
+			const mobileToggle = page.locator('.nc-header__menu-toggle');
+			const mobileState = {};
+			if (width <= 640) {
+				mobileState.stableInitialLayout = initialLayoutShift < 0.1;
+				mobileState.initiallyCollapsed = await mobileToggle.getAttribute('aria-expanded') === 'false';
+				mobileState.compactHeader = await page.locator('.nc-header').evaluate(header => header.getBoundingClientRect().height <= 90);
+				await mobileToggle.tap();
+				mobileState.opensOnTap = await mobileToggle.getAttribute('aria-expanded') === 'true';
+			}
 			const layout = await page.evaluate(() => {
 				const header = document.querySelector('.nc-header');
 				const menu = document.querySelector('.nc-header__menu');
@@ -21,10 +37,13 @@ const fs = require('node:fs');
 				const rect = header.getBoundingClientRect();
 				const hit = (a, b) => a.left < b.right && a.right > b.left && a.top < b.bottom && a.bottom > b.top;
 				const links = [...menu.children].map(item => item.getBoundingClientRect());
+				const menuRect = menu.getBoundingClientRect();
 				return {
 					headerHeight: rect.height,
 					staysAtTop: Math.abs(rect.top) < 1,
-					oneMenuRow: new Set(links.map(item => Math.round(item.top))).size === 1,
+					menuRowsCorrect: new Set(links.map(item => Math.round(item.top))).size === (innerWidth <= 640 ? links.length : 1),
+					allMenuLinksVisible: links.every(item => item.left >= menuRect.left - 1 && item.right <= menuRect.right + 1 && item.top >= menuRect.top - 1 && item.bottom <= menuRect.bottom + 1),
+					menuDoesNotScroll: menu.scrollWidth <= menu.clientWidth + 1,
 					noCollisions: !links.some(item => hit(item, brand) || hit(item, utilities)),
 					noPageOverflow: document.documentElement.scrollWidth <= innerWidth + 1,
 					opaqueHeader: !getComputedStyle(header).backgroundColor.includes('/'),
@@ -41,6 +60,12 @@ const fs = require('node:fs');
 			});
 			await page.keyboard.press('Escape');
 			layout.escapeCloses = await page.locator('.nc-header__category-dropdown').evaluate(menu => !menu.open);
+			if (width <= 640) {
+				await page.keyboard.press('Escape');
+				mobileState.menuEscapeCloses = await mobileToggle.getAttribute('aria-expanded') === 'false';
+				mobileState.focusReturnsToMenu = await mobileToggle.evaluate(button => button === document.activeElement);
+			}
+			Object.assign(layout, mobileState);
 			layout.noJavaScriptErrors = errors.length === 0;
 			results.push({ width, ...layout });
 			if (process.env.NC_SCREENSHOT_DIR) {

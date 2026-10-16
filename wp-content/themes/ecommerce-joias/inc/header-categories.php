@@ -50,3 +50,10 @@ function ecommerce_joias_filter_header_category_items( $items, $args ) {
 	} ) );
 }
 add_filter( 'wp_nav_menu_objects', 'ecommerce_joias_filter_header_category_items', 10, 2 );
+
+
+/** Prepara o layout compacto antes da primeira pintura, mantendo fallback sem JS. */
+function ecommerce_joias_mobile_menu_bootstrap() {
+	wp_print_inline_script_tag( "document.documentElement.classList.add('nc-has-mobile-menu');", array( 'id' => 'nc-mobile-menu-bootstrap' ) );
+}
+add_action( 'wp_head', 'ecommerce_joias_mobile_menu_bootstrap', 0 );

@@ -32,6 +32,11 @@ $header_has_hero = ecommerce_joias_has_header_hero();
 
 		<header class="nc-header<?php echo $header_has_hero ? ' nc-header--hero-enabled' : ''; ?>" id="masthead"<?php if ( $header_has_hero ) : ?> data-hero-overlay="true"<?php if ( ! is_front_page() ) : ?> style="--nc-header-hero-text:<?php echo esc_attr( sanitize_hex_color( get_theme_mod( 'ecommerce_joias_about_photo_text', '#ffffff' ) ) ?: '#ffffff' ); ?>"<?php endif; ?><?php endif; ?>>
 			<div class="nc-header__row">
+				<button class="nc-header__menu-toggle" type="button" aria-expanded="false" aria-controls="nc-primary-navigation" hidden>
+					<svg class="nc-menu-open-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true" focusable="false"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+					<svg class="nc-menu-close-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true" focusable="false"><path d="m6 6 12 12M18 6 6 18"/></svg>
+					<span>Menu</span>
+				</button>
 				<div class="nc-header__brand">
 					<?php if ( has_custom_logo() ) : ?>
 						<?php the_custom_logo(); ?>
@@ -42,7 +47,7 @@ $header_has_hero = ecommerce_joias_has_header_hero();
 					<?php endif; ?>
 				</div>
 
-				<nav class="nc-header__navigation" aria-label="<?php esc_attr_e( 'Navegação principal', 'ecommerce-joias' ); ?>">
+				<nav id="nc-primary-navigation" class="nc-header__navigation" aria-label="<?php esc_attr_e( 'Navegação principal', 'ecommerce-joias' ); ?>">
 					<ul class="nc-header__menu">
 					<?php
 					wp_nav_menu(
