@@ -10,6 +10,7 @@ require_once get_stylesheet_directory() . '/inc/product-images.php';
 require_once get_stylesheet_directory() . '/inc/product-catalog.php';
 require_once get_stylesheet_directory() . '/inc/catalog-views.php';
 require_once get_stylesheet_directory() . '/inc/account.php';
+require_once get_stylesheet_directory() . '/inc/cart.php';
 
 /**
  * Carrega os estilos próprios depois do CSS e das opções visuais do Orchid Store.
