@@ -132,3 +132,21 @@ presentes, incluindo o fechamento junto ao rodapé.
 
 As referências e a adaptação de design estão em
 [referencias-transicoes-home.md](docs/referencias-transicoes-home.md).
+
+
+### Auditoria de desempenho do tema
+
+A rodada de 16/10/2026 cobre todas as páginas e cenários inventariados em mobile
+e desktop, incluindo conta autenticada, carrinho e checkout. Consulte o
+[relatório completo](docs/lighthouse-2026-10-16/README.md), a
+[tabela interativa](docs/lighthouse-2026-10-16/index.html) e os
+[pesos de imagens e recomendações](docs/lighthouse-2026-10-16/imagens-prioritarias.md).
+Os resultados são medições locais; carrinho e checkout de blocos ainda exigem
+melhorias no celular. Os relatórios Lighthouse completos estão disponíveis
+localmente e são ignorados pelo Git; resumos e scripts são versionados.
+
+`inc/performance.php` concentra o carregamento condicional, a fonte Inter local,
+as imagens prioritárias e o logo responsivo. A solicitação de link de recuperação
+não baixa o medidor de senha; redefinição e edição de conta continuam com ele.
+O `.htaccess` do tema configura 30 dias de cache apenas para CSS, JS e fontes no
+Apache. Ao substituir uma fonte, use outro nome de arquivo para invalidar o cache.

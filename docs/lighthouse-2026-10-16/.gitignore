@@ -1,0 +1,25 @@
+# Relatórios completos continuam disponíveis localmente; resumos são versionados.
+antes/*.html
+antes/*.json
+!antes/summary-*.json
+ensaio/*.html
+ensaio/*.json
+!ensaio/summary-*.json
+ensaio-defer/*.html
+ensaio-defer/*.json
+!ensaio-defer/summary-*.json
+depois/*.html
+depois/*.json
+!depois/summary-*.json
+repeticoes/*.html
+repeticoes/*.json
+!repeticoes/summary-*.json
+ensaio-recuperar-senha/*.html
+ensaio-recuperar-senha/*.json
+!ensaio-recuperar-senha/summary-*.json
+
+# Capturas e rodadas intermediárias de diagnóstico ficam apenas no ambiente local.
+*.png
+ensaio/
+ensaio-defer/
+mobile-antes-ajustes-finais.json

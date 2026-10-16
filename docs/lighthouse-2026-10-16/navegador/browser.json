@@ -1,0 +1,5090 @@
+[
+  {
+    "id": "home",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-600x338.jpg",
+        "width": 390,
+        "height": 518.375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-600x600.avif",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-300x300.avif",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-600x600.avif",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-600x600.avif",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 166.59375,
+        "height": 166.59375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 166.609375,
+        "height": 166.609375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 166.59375,
+        "height": 166.59375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 166.609375,
+        "height": 166.609375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-600x602.webp",
+        "width": 390,
+        "height": 391.21875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "pagina-exemplo",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "loja",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      172,
+      172,
+      172,
+      172
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "carrinho",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 300,
+        "height": 300,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 300,
+        "height": 300,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 300,
+        "height": 300,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 328.09375,
+        "height": 328.09375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "minha-conta",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produtos",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 167,
+        "height": 208.75,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x93.webp",
+        "width": 167,
+        "height": 208.75,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 167,
+        "height": 208.75,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 167,
+        "height": 208.75,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 167,
+        "height": 208.75,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-300x300.avif",
+        "width": 167,
+        "height": 208.75,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "sobre-a-loja",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-7.jpg",
+        "width": 252,
+        "height": 252,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "ajuda",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 7,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "entrega-e-frete",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "trocas-e-devolucoes",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "cancelamentos-e-reembolsos",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "cuidados-com-as-pecas",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "guia-de-tamanhos",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "pagamento-nao-concluido",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "pedido-cancelado",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "manutencao",
+    "width": 390,
+    "status": 503,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-92",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-600x187.webp",
+        "width": 354.09375,
+        "height": 110.34375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888.webp",
+        "width": 1920,
+        "height": 597,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-82",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-600x600.avif",
+        "width": 354.09375,
+        "height": 354.09375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1.avif",
+        "width": 1000,
+        "height": 1000,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-76",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 354.09375,
+        "height": 354.09375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 447,
+        "height": 447,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-34",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 354.09375,
+        "height": 354.09375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 447,
+        "height": 447,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-33",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "width": 354.09375,
+        "height": 354.09375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689.webp",
+        "width": 1000,
+        "height": 1000,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-29",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 354.09375,
+        "height": 354.09375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 447,
+        "height": 447,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-sem-categoria",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-aneis",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      172
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-brinco",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      172
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-colar",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      172
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-escapulario",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      172
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-pulseiras",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      172
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-tornozeleira",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      172
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "novidades",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 170.046875,
+        "height": 170.046875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      172,
+      172,
+      172,
+      172
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "mais-vendidos",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "busca-vazia",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "busca-geral-vazia",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "404",
+    "width": 390,
+    "status": 404,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "recuperar-senha",
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "manutencao-render",
+    "width": 390,
+    "status": 503,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "404-render",
+    "width": 390,
+    "status": 404,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 127.875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "home",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-768x432.jpg",
+        "width": 768,
+        "height": 972.265625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-768x768.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-768x768.avif",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-300x300.avif",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-768x768.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-768x768.avif",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-768x768.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-768x768.avif",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 214,
+        "height": 214,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 214,
+        "height": 214,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 214,
+        "height": 214,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 214,
+        "height": 214,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-768x770.webp",
+        "width": 768,
+        "height": 770.390869140625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "pagina-exemplo",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "loja",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-600x600.avif",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      357,
+      357,
+      357,
+      357
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "carrinho",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 215.40625,
+        "height": 215.40625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 215.40625,
+        "height": 215.40625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 215.40625,
+        "height": 215.40625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 215.40625,
+        "height": 215.40625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "minha-conta",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produtos",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 352,
+        "height": 440,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-600x187.webp",
+        "width": 352,
+        "height": 440,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "width": 352,
+        "height": 440,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 352,
+        "height": 440,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 352,
+        "height": 440,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-600x600.avif",
+        "width": 352,
+        "height": 440,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "sobre-a-loja",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-7.jpg",
+        "width": 245.55377197265625,
+        "height": 322.56005859375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "ajuda",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 7,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "entrega-e-frete",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "trocas-e-devolucoes",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "cancelamentos-e-reembolsos",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "cuidados-com-as-pecas",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "guia-de-tamanhos",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "pagamento-nao-concluido",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "pedido-cancelado",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "manutencao",
+    "width": 768,
+    "status": 503,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-92",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-600x187.webp",
+        "width": 728.3125,
+        "height": 226.984375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888.webp",
+        "width": 1920,
+        "height": 597,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-82",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-600x600.avif",
+        "width": 728.3125,
+        "height": 728.3125,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1.avif",
+        "width": 1000,
+        "height": 1000,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-76",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 728.3125,
+        "height": 728.3125,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-34",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 728.3125,
+        "height": 728.3125,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-33",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "width": 728.3125,
+        "height": 728.3125,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689.webp",
+        "width": 1000,
+        "height": 1000,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-29",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 728.3125,
+        "height": 728.3125,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-sem-categoria",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-aneis",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      357
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-brinco",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      357
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-colar",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      357
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-escapulario",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      357
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-pulseiras",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      357
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-tornozeleira",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      357
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "novidades",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 355.15625,
+        "height": 355.15625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      357,
+      357,
+      357,
+      357
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "mais-vendidos",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "busca-vazia",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "busca-geral-vazia",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "404",
+    "width": 768,
+    "status": 404,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "recuperar-senha",
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 111.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "manutencao-render",
+    "width": 768,
+    "status": 503,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "404-render",
+    "width": 768,
+    "status": 404,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 120.609375,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "home",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-1536x864.jpg",
+        "width": 1366,
+        "height": 1105.78125,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37.avif",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-300x300.avif",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37.avif",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37.avif",
+        "width": 198,
+        "height": 198,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 214,
+        "height": 214,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 214,
+        "height": 214,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 214,
+        "height": 214,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 214,
+        "height": 214.0001220703125,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-768x770.webp",
+        "width": 607.125,
+        "height": 623.8125,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "pagina-exemplo",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "loja",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      265,
+      265,
+      265,
+      265
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "carrinho",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 249,
+        "height": 249,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 249,
+        "height": 249,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 249,
+        "height": 249,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 249,
+        "height": 249,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "minha-conta",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produtos",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 299.515625,
+        "height": 374.390625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x93.webp",
+        "width": 299.515625,
+        "height": 374.390625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 299.515625,
+        "height": 374.390625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 299.515625,
+        "height": 374.390625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 299.515625,
+        "height": 374.390625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-300x300.avif",
+        "width": 299.515625,
+        "height": 374.390625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "sobre-a-loja",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-7.jpg",
+        "width": 436.5450439453125,
+        "height": 436.54498291015625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "ajuda",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 7,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "entrega-e-frete",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "trocas-e-devolucoes",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "cancelamentos-e-reembolsos",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "cuidados-com-as-pecas",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "guia-de-tamanhos",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "pagamento-nao-concluido",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "pedido-cancelado",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "manutencao",
+    "width": 1366,
+    "status": 503,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-92",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-600x187.webp",
+        "width": 431.1875,
+        "height": 134.375,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888.webp",
+        "width": 1920,
+        "height": 597,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-82",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-600x600.avif",
+        "width": 431.1875,
+        "height": 431.1875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1.avif",
+        "width": 1000,
+        "height": 1000,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-76",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 431.1875,
+        "height": 431.1875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6.jpg",
+        "width": 447,
+        "height": 447,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-34",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 431.1875,
+        "height": 431.1875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5.jpg",
+        "width": 447,
+        "height": 447,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-33",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp",
+        "width": 431.1875,
+        "height": 431.1875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689.webp",
+        "width": 1000,
+        "height": 1000,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "produto-29",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 431.1875,
+        "height": 431.1875,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4.jpg",
+        "width": 447,
+        "height": 447,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-sem-categoria",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-aneis",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      265
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-brinco",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      265
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-colar",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      265
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-escapulario",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      265
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-pulseiras",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      265
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "categoria-tornozeleira",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      265
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "novidades",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/37-1-300x300.avif",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/images-6-300x300.jpg",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-5-300x300.jpg",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/09/images-4-300x300.jpg",
+        "width": 262.515625,
+        "height": 262.515625,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [
+      265,
+      265,
+      265,
+      265
+    ],
+    "escapeCloses": true
+  },
+  {
+    "id": "mais-vendidos",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "busca-vazia",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 2,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "busca-geral-vazia",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "404",
+    "width": 1366,
+    "status": 404,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "recuperar-senha",
+    "width": 1366,
+    "status": 200,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 64.796875,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Inter, \"Segoe UI\", Roboto, -apple-system, BlinkMacSystemFont, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "manutencao-render",
+    "width": 1366,
+    "status": 503,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  },
+  {
+    "id": "404-render",
+    "width": 1366,
+    "status": 404,
+    "errors": [],
+    "overflow": false,
+    "mainCount": 1,
+    "h1Count": 1,
+    "headerHeight": 72.515625,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "formFont": "Arial, Helvetica, sans-serif",
+    "helpCards": 0,
+    "emptyHelpCards": 0,
+    "images": [
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 56,
+        "height": 56,
+        "complete": true,
+        "broken": false
+      },
+      {
+        "src": "http://localhost:8080/wp-content/uploads/2026/10/cropped-Logo-NC-semojias-transparente-1-2-100x100.png",
+        "width": 72,
+        "height": 72,
+        "complete": true,
+        "broken": false
+      }
+    ],
+    "cardWidths": [],
+    "escapeCloses": true
+  }
+]

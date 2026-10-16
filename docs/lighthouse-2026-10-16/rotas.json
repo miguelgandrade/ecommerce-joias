@@ -1,0 +1,243 @@
+[
+  {
+    "id": "home",
+    "label": "Início",
+    "url": "http://localhost:8080/"
+  },
+  {
+    "id": "pagina-exemplo",
+    "label": "Página de exemplo",
+    "url": "http://localhost:8080/?page_id=2",
+    "expectedStatus": 200
+  },
+  {
+    "id": "loja",
+    "label": "Loja",
+    "url": "http://localhost:8080/?page_id=6",
+    "expectedStatus": 200
+  },
+  {
+    "id": "carrinho",
+    "label": "Carrinho",
+    "url": "http://localhost:8080/?page_id=7",
+    "expectedStatus": 200
+  },
+  {
+    "id": "minha-conta",
+    "label": "Minha conta",
+    "url": "http://localhost:8080/?page_id=9",
+    "expectedStatus": 200
+  },
+  {
+    "id": "produtos",
+    "label": "Produtos",
+    "url": "http://localhost:8080/?page_id=19",
+    "expectedStatus": 200
+  },
+  {
+    "id": "sobre-a-loja",
+    "label": "Sobre a loja",
+    "url": "http://localhost:8080/?page_id=21",
+    "expectedStatus": 200
+  },
+  {
+    "id": "ajuda",
+    "label": "Como podemos ajudar?",
+    "url": "http://localhost:8080/?page_id=125",
+    "expectedStatus": 200
+  },
+  {
+    "id": "entrega-e-frete",
+    "label": "Entrega e frete",
+    "url": "http://localhost:8080/?page_id=126",
+    "expectedStatus": 200
+  },
+  {
+    "id": "trocas-e-devolucoes",
+    "label": "Trocas e devoluções",
+    "url": "http://localhost:8080/?page_id=127",
+    "expectedStatus": 200
+  },
+  {
+    "id": "cancelamentos-e-reembolsos",
+    "label": "Cancelamentos e reembolsos",
+    "url": "http://localhost:8080/?page_id=128",
+    "expectedStatus": 200
+  },
+  {
+    "id": "cuidados-com-as-pecas",
+    "label": "Cuidados com as peças",
+    "url": "http://localhost:8080/?page_id=129",
+    "expectedStatus": 200
+  },
+  {
+    "id": "guia-de-tamanhos",
+    "label": "Guia de tamanhos",
+    "url": "http://localhost:8080/?page_id=130",
+    "expectedStatus": 200
+  },
+  {
+    "id": "pagamento-nao-concluido",
+    "label": "Pagamento não concluído",
+    "url": "http://localhost:8080/?page_id=131",
+    "expectedStatus": 200
+  },
+  {
+    "id": "pedido-cancelado",
+    "label": "Pedido cancelado",
+    "url": "http://localhost:8080/?page_id=132",
+    "expectedStatus": 200
+  },
+  {
+    "id": "manutencao",
+    "label": "Voltamos em breve",
+    "url": "http://localhost:8080/?page_id=133",
+    "expectedStatus": 503
+  },
+  {
+    "id": "produto-92",
+    "label": "Brinco bacana",
+    "url": "http://localhost:8080/?product=brinco-bacana"
+  },
+  {
+    "id": "produto-82",
+    "label": "Tornozeleira chique",
+    "url": "http://localhost:8080/?product=tornozeleira-chique"
+  },
+  {
+    "id": "produto-76",
+    "label": "Escapulário Bonito",
+    "url": "http://localhost:8080/?product=escapulario-bonito"
+  },
+  {
+    "id": "produto-34",
+    "label": "Pulseira prata",
+    "url": "http://localhost:8080/?product=pulseira-prata"
+  },
+  {
+    "id": "produto-33",
+    "label": "Colar Elegance",
+    "url": "http://localhost:8080/?product=colar-elegance"
+  },
+  {
+    "id": "produto-29",
+    "label": "Anel Dourado",
+    "url": "http://localhost:8080/?product=colar-elegante"
+  },
+  {
+    "id": "categoria-sem-categoria",
+    "label": "Categoria Sem categoria",
+    "url": "http://localhost:8080/?product_cat=sem-categoria"
+  },
+  {
+    "id": "categoria-aneis",
+    "label": "Categoria Aneis",
+    "url": "http://localhost:8080/?product_cat=aneis"
+  },
+  {
+    "id": "categoria-brinco",
+    "label": "Categoria Brincos",
+    "url": "http://localhost:8080/?product_cat=brinco"
+  },
+  {
+    "id": "categoria-colar",
+    "label": "Categoria Colar",
+    "url": "http://localhost:8080/?product_cat=colar"
+  },
+  {
+    "id": "categoria-escapulario",
+    "label": "Categoria Escapulário",
+    "url": "http://localhost:8080/?product_cat=escapulario"
+  },
+  {
+    "id": "categoria-pulseiras",
+    "label": "Categoria Pulseiras",
+    "url": "http://localhost:8080/?product_cat=pulseiras"
+  },
+  {
+    "id": "categoria-tornozeleira",
+    "label": "Categoria Tornozeleira",
+    "url": "http://localhost:8080/?product_cat=tornozeleira"
+  },
+  {
+    "id": "novidades",
+    "label": "Novidades",
+    "url": "http://localhost:8080/?post_type=product&nc_vitrine=novidades"
+  },
+  {
+    "id": "mais-vendidos",
+    "label": "Mais Vendidos",
+    "url": "http://localhost:8080/?post_type=product&nc_vitrine=mais-vendidos"
+  },
+  {
+    "id": "busca-vazia",
+    "label": "Busca de produtos sem resultados",
+    "url": "http://localhost:8080/?s=ncsemresultado987654&post_type=product"
+  },
+  {
+    "id": "busca-geral-vazia",
+    "label": "Busca geral sem resultados",
+    "url": "http://localhost:8080/?s=ncsemresultado987654"
+  },
+  {
+    "id": "404",
+    "label": "Página 404",
+    "url": "http://localhost:8080/?p=999999999",
+    "expectedStatus": 404
+  },
+  {
+    "id": "recuperar-senha",
+    "label": "Recuperar senha",
+    "url": "http://localhost:8080/?page_id=9&lost-password"
+  },
+  {
+    "id": "carrinho-preenchido",
+    "label": "Carrinho com produto",
+    "url": "http://localhost:8080/?page_id=7",
+    "cart": true
+  },
+  {
+    "id": "checkout",
+    "label": "Finalizar compra com produto",
+    "url": "http://localhost:8080/?page_id=8",
+    "cart": true
+  },
+  {
+    "id": "manutencao-render",
+    "label": "Voltamos em breve (conteúdo com status normalizado só no navegador de teste)",
+    "url": "http://localhost:8080/?page_id=133",
+    "expectedStatus": 503,
+    "measureErrorDocument": true
+  },
+  {
+    "id": "404-render",
+    "label": "Página 404 (conteúdo com status normalizado só no navegador de teste)",
+    "url": "http://localhost:8080/?p=999999999",
+    "expectedStatus": 404,
+    "measureErrorDocument": true
+  },
+  {
+    "id": "conta-dashboard",
+    "label": "Painel da conta autenticada",
+    "auth": true,
+    "url": "http://localhost:8080/?page_id=9"
+  },
+  {
+    "id": "conta-edit-address",
+    "label": "Endereços da conta autenticada",
+    "auth": true,
+    "url": "http://localhost:8080/?page_id=9&edit-address"
+  },
+  {
+    "id": "conta-edit-account",
+    "label": "Dados da conta autenticada",
+    "auth": true,
+    "url": "http://localhost:8080/?page_id=9&edit-account"
+  },
+  {
+    "id": "conta-orders",
+    "label": "Pedidos (conta sem compras)",
+    "auth": true,
+    "url": "http://localhost:8080/?page_id=9&orders"
+  }
+]

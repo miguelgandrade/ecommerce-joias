@@ -1,0 +1,8 @@
+# Somente recursos estáticos do tema; páginas e respostas PHP não recebem cache.
+# CSS/JS usam versões por filemtime nas URLs. Ao substituir fontes, troque o nome.
+<IfModule mod_expires.c>
+    <FilesMatch "\.(css|js|woff2)$">
+        ExpiresActive On
+        ExpiresDefault "access plus 30 days"
+    </FilesMatch>
+</IfModule>

@@ -84,23 +84,23 @@ $header_has_hero = ecommerce_joias_has_header_hero();
 						<input id="nc-header-search" type="search" name="s" value="<?php echo esc_attr( get_search_query() ); ?>" placeholder="<?php esc_attr_e( 'Buscar peças', 'ecommerce-joias' ); ?>">
 						<input type="hidden" name="post_type" value="product">
 						<button type="submit" aria-label="<?php esc_attr_e( 'Buscar', 'ecommerce-joias' ); ?>">
-							<i class="bx bx-search" aria-hidden="true"></i>
+							<?php echo ecommerce_joias_icon( 'search' ); ?>
 						</button>
 					</form>
 
 					<div class="nc-header__actions">
 					<?php if ( $account_page_id > 0 && get_theme_mod( 'ecommerce_joias_store_account_menu_enabled', true ) ) : ?>
 						<a class="nc-header__action" href="<?php echo esc_url( get_permalink( $account_page_id ) ); ?>" aria-label="<?php echo esc_attr( $account_label ); ?>">
-							<i class="bx bx-user" aria-hidden="true"></i>
+							<?php echo ecommerce_joias_icon( 'user' ); ?>
 							<span class="screen-reader-text"><?php echo esc_html( $account_label ); ?></span>
 						</a>
 					<?php endif; ?>
 
 					<?php if ( class_exists( 'WooCommerce' ) ) : ?>
 						<a class="nc-header__action nc-header__cart" href="<?php echo esc_url( wc_get_cart_url() ); ?>" aria-label="<?php esc_attr_e( 'Carrinho', 'ecommerce-joias' ); ?>">
-							<i class="bx bx-cart" aria-hidden="true"></i>
+							<?php echo ecommerce_joias_icon( 'cart' ); ?>
 							<?php if ( WC()->cart && WC()->cart->get_cart_contents_count() > 0 ) : ?>
-								<span class="nc-header__cart-count"><?php echo esc_html( WC()->cart->get_cart_contents_count() ); ?></span>
+								<span class="nc-header__cart-count" aria-hidden="true"><?php echo esc_html( WC()->cart->get_cart_contents_count() ); ?></span>
 							<?php endif; ?>
 							<span class="screen-reader-text"><?php esc_html_e( 'Carrinho', 'ecommerce-joias' ); ?></span>
 						</a>

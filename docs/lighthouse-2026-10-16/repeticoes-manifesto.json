@@ -1,0 +1,30 @@
+[
+  {
+    "id": "carrinho-preenchido-r2",
+    "label": "Carrinho com produto",
+    "url": "http://localhost:8080/?page_id=7",
+    "cart": true,
+    "baseId": "carrinho-preenchido"
+  },
+  {
+    "id": "carrinho-preenchido-r3",
+    "label": "Carrinho com produto",
+    "url": "http://localhost:8080/?page_id=7",
+    "cart": true,
+    "baseId": "carrinho-preenchido"
+  },
+  {
+    "id": "checkout-r2",
+    "label": "Finalizar compra com produto",
+    "url": "http://localhost:8080/?page_id=8",
+    "cart": true,
+    "baseId": "checkout"
+  },
+  {
+    "id": "checkout-r3",
+    "label": "Finalizar compra com produto",
+    "url": "http://localhost:8080/?page_id=8",
+    "cart": true,
+    "baseId": "checkout"
+  }
+]

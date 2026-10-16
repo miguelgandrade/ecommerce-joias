@@ -1,0 +1,268 @@
+[
+  {
+    "width": 320,
+    "headerHeight": 120,
+    "staysAtTop": true,
+    "oneMenuRow": true,
+    "noCollisions": true,
+    "noPageOverflow": true,
+    "opaqueHeader": true,
+    "oneMainLandmark": true,
+    "metaDescription": true,
+    "categoryClickable": true,
+    "escapeCloses": true,
+    "noJavaScriptErrors": true
+  },
+  {
+    "width": 390,
+    "headerHeight": 120,
+    "staysAtTop": true,
+    "oneMenuRow": true,
+    "noCollisions": true,
+    "noPageOverflow": true,
+    "opaqueHeader": true,
+    "oneMainLandmark": true,
+    "metaDescription": true,
+    "categoryClickable": true,
+    "escapeCloses": true,
+    "noJavaScriptErrors": true
+  },
+  {
+    "width": 640,
+    "headerHeight": 120,
+    "staysAtTop": true,
+    "oneMenuRow": true,
+    "noCollisions": true,
+    "noPageOverflow": true,
+    "opaqueHeader": true,
+    "oneMainLandmark": true,
+    "metaDescription": true,
+    "categoryClickable": true,
+    "escapeCloses": true,
+    "noJavaScriptErrors": true
+  },
+  {
+    "width": 641,
+    "headerHeight": 111.609375,
+    "staysAtTop": true,
+    "oneMenuRow": true,
+    "noCollisions": true,
+    "noPageOverflow": true,
+    "opaqueHeader": true,
+    "oneMainLandmark": true,
+    "metaDescription": true,
+    "categoryClickable": true,
+    "escapeCloses": true,
+    "noJavaScriptErrors": true
+  },
+  {
+    "width": 768,
+    "headerHeight": 111.609375,
+    "staysAtTop": true,
+    "oneMenuRow": true,
+    "noCollisions": true,
+    "noPageOverflow": true,
+    "opaqueHeader": true,
+    "oneMainLandmark": true,
+    "metaDescription": true,
+    "categoryClickable": true,
+    "escapeCloses": true,
+    "noJavaScriptErrors": true
+  },
+  {
+    "width": 1024,
+    "headerHeight": 64.796875,
+    "staysAtTop": true,
+    "oneMenuRow": true,
+    "noCollisions": true,
+    "noPageOverflow": true,
+    "opaqueHeader": true,
+    "oneMainLandmark": true,
+    "metaDescription": true,
+    "categoryClickable": true,
+    "escapeCloses": true,
+    "noJavaScriptErrors": true
+  },
+  {
+    "width": 1366,
+    "headerHeight": 64.796875,
+    "staysAtTop": true,
+    "oneMenuRow": true,
+    "noCollisions": true,
+    "noPageOverflow": true,
+    "opaqueHeader": true,
+    "oneMainLandmark": true,
+    "metaDescription": true,
+    "categoryClickable": true,
+    "escapeCloses": true,
+    "noJavaScriptErrors": true
+  },
+  {
+    "width": 390,
+    "route": "/",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 390,
+    "route": "/?post_type=product&nc_vitrine=mais-vendidos",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 390,
+    "route": "/?post_type=product&nc_vitrine=novidades",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 390,
+    "route": "/?post_type=product",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 390,
+    "route": "/?page_id=19",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 390,
+    "route": "/?page_id=21",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 390,
+    "route": "/?page_id=7",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 390,
+    "route": "/?page_id=9",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 601,
+    "route": "/",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 601,
+    "route": "/?post_type=product&nc_vitrine=mais-vendidos",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 601,
+    "route": "/?post_type=product&nc_vitrine=novidades",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 601,
+    "route": "/?post_type=product",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 601,
+    "route": "/?page_id=19",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 601,
+    "route": "/?page_id=21",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 601,
+    "route": "/?page_id=7",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 601,
+    "route": "/?page_id=9",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 768,
+    "route": "/?post_type=product&nc_vitrine=mais-vendidos",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 768,
+    "route": "/?post_type=product&nc_vitrine=novidades",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 768,
+    "route": "/?post_type=product",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 768,
+    "route": "/?page_id=19",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 768,
+    "route": "/?page_id=21",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 768,
+    "route": "/?page_id=7",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  },
+  {
+    "width": 768,
+    "route": "/?page_id=9",
+    "adminToolbar": true,
+    "initialPositionCorrect": true,
+    "scrollPositionCorrect": true
+  }
+]

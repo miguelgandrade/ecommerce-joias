@@ -12,6 +12,10 @@ require_once get_stylesheet_directory() . '/inc/catalog-views.php';
 require_once get_stylesheet_directory() . '/inc/account.php';
 require_once get_stylesheet_directory() . '/inc/cart.php';
 require_once get_stylesheet_directory() . '/inc/footer.php';
+require_once get_stylesheet_directory() . '/inc/support.php';
+require_once get_stylesheet_directory() . '/inc/performance.php';
+require_once get_stylesheet_directory() . '/inc/accessibility.php';
+require_once get_stylesheet_directory() . '/inc/metadata.php';
 
 /**
  * Carrega os estilos próprios depois do CSS e das opções visuais do Orchid Store.

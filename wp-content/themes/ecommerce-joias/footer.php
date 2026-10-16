@@ -96,6 +96,7 @@ $footer_copyright = get_theme_mod(
 			</nav>
 			<nav class="nc-site-footer__help" aria-label="<?php esc_attr_e( 'Ajuda para comprar', 'ecommerce-joias' ); ?>">
 				<h2><?php esc_html_e( 'Ajuda', 'ecommerce-joias' ); ?></h2>
+				<p><a href="<?php echo esc_url( ecommerce_joias_support_url() ); ?>">Central de ajuda</a></p>
 				<ul class="nc-site-footer__menu">
 					<?php foreach ( $footer_help as $key => $label ) : ?>
 						<?php $url = ecommerce_joias_footer_page_url( $key ); ?>
@@ -168,7 +169,7 @@ $footer_copyright = get_theme_mod(
 	<!-- Botão de voltar ao topo da página -->
 	<?php if ( function_exists( 'orchid_store_get_option' ) && orchid_store_get_option( 'display_scroll_top_button' ) ) : ?>
 		<button type="button" class="orchid-backtotop" aria-label="<?php esc_attr_e( 'Voltar ao topo', 'ecommerce-joias' ); ?>"<?php echo is_front_page() ? ' hidden' : ''; ?>>
-			<span><i class="bx bx-chevron-up"></i></span>
+			<span><?php echo ecommerce_joias_icon( 'up' ); ?></span>
 		</button>
 	<?php endif; ?>
 

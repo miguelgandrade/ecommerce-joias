@@ -1,0 +1,8 @@
+[
+  {
+    "id": "cart-checkout-flow",
+    "persistedQuantity": true,
+    "checkoutVisible": true,
+    "errors": []
+  }
+]

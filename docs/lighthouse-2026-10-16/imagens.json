@@ -1,0 +1,1055 @@
+[
+    {
+        "id": 90,
+        "file": "2026/10/images-7.jpg",
+        "bytes": 17315,
+        "width": 447,
+        "height": 447,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 11083,
+                "file": "images-7-300x300.jpg"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 3688,
+                "file": "images-7-150x150.jpg"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 11083,
+                "file": "images-7-300x300.jpg"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 2136,
+                "file": "images-7-100x100.jpg"
+            }
+        }
+    },
+    {
+        "id": 88,
+        "file": "2026/10/cropped-Logo-NC-semojias-transparente-1-2.png",
+        "bytes": 42393,
+        "width": 500,
+        "height": 500,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 20737,
+                "file": "cropped-Logo-NC-semojias-transparente-1-2-300x300.png"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 8341,
+                "file": "cropped-Logo-NC-semojias-transparente-1-2-150x150.png"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 500,
+                "height": 450,
+                "bytes": 42173,
+                "file": "cropped-Logo-NC-semojias-transparente-1-2-500x450.png"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 20737,
+                "file": "cropped-Logo-NC-semojias-transparente-1-2-300x300.png"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 4878,
+                "file": "cropped-Logo-NC-semojias-transparente-1-2-100x100.png"
+            }
+        }
+    },
+    {
+        "id": 87,
+        "file": "2026/10/cropped-Logo-NC-semojias-1.jpeg",
+        "bytes": 7897,
+        "width": 378,
+        "height": 372,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 295,
+                "bytes": 5887,
+                "file": "cropped-Logo-NC-semojias-1-300x295.jpeg"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 2532,
+                "file": "cropped-Logo-NC-semojias-1-150x150.jpeg"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 5982,
+                "file": "cropped-Logo-NC-semojias-1-300x300.jpeg"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 1493,
+                "file": "cropped-Logo-NC-semojias-1-100x100.jpeg"
+            }
+        }
+    },
+    {
+        "id": 86,
+        "file": "2026/10/Logo-NC-semojias-1.jpeg",
+        "bytes": 8459,
+        "width": 500,
+        "height": 500,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 4514,
+                "file": "Logo-NC-semojias-1-300x300.jpeg"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 1854,
+                "file": "Logo-NC-semojias-1-150x150.jpeg"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 500,
+                "height": 450,
+                "bytes": 8742,
+                "file": "Logo-NC-semojias-1-500x450.jpeg"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 4514,
+                "file": "Logo-NC-semojias-1-300x300.jpeg"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 1133,
+                "file": "Logo-NC-semojias-1-100x100.jpeg"
+            }
+        }
+    },
+    {
+        "id": 85,
+        "file": "2026/10/cropped-Logo-NC-semojias-transparente-1-1.png",
+        "bytes": 46450,
+        "width": 512,
+        "height": 512,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 22247,
+                "file": "cropped-Logo-NC-semojias-transparente-1-1-300x300.png"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 8557,
+                "file": "cropped-Logo-NC-semojias-transparente-1-1-150x150.png"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 512,
+                "height": 450,
+                "bytes": 46938,
+                "file": "cropped-Logo-NC-semojias-transparente-1-1-512x450.png"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 22247,
+                "file": "cropped-Logo-NC-semojias-transparente-1-1-300x300.png"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 5038,
+                "file": "cropped-Logo-NC-semojias-transparente-1-1-100x100.png"
+            },
+            "site_icon-270": {
+                "width": 270,
+                "height": 270,
+                "bytes": 19221,
+                "file": "cropped-Logo-NC-semojias-transparente-1-1-270x270.png"
+            },
+            "site_icon-192": {
+                "width": 192,
+                "height": 192,
+                "bytes": 11997,
+                "file": "cropped-Logo-NC-semojias-transparente-1-1-192x192.png"
+            },
+            "site_icon-180": {
+                "width": 180,
+                "height": 180,
+                "bytes": 11100,
+                "file": "cropped-Logo-NC-semojias-transparente-1-1-180x180.png"
+            },
+            "site_icon-64": {
+                "width": 64,
+                "height": 64,
+                "bytes": 2798,
+                "file": "cropped-Logo-NC-semojias-transparente-1-1-64x64.png"
+            },
+            "site_icon-32": {
+                "width": 32,
+                "height": 32,
+                "bytes": 1217,
+                "file": "cropped-Logo-NC-semojias-transparente-1-1-32x32.png"
+            }
+        }
+    },
+    {
+        "id": 84,
+        "file": "2026/10/cropped-Logo-NC-semojias-transparente-1.png",
+        "bytes": 46450,
+        "width": 512,
+        "height": 512,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 22247,
+                "file": "cropped-Logo-NC-semojias-transparente-1-300x300.png"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 8557,
+                "file": "cropped-Logo-NC-semojias-transparente-1-150x150.png"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 512,
+                "height": 450,
+                "bytes": 46938,
+                "file": "cropped-Logo-NC-semojias-transparente-1-512x450.png"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 22247,
+                "file": "cropped-Logo-NC-semojias-transparente-1-300x300.png"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 5038,
+                "file": "cropped-Logo-NC-semojias-transparente-1-100x100.png"
+            },
+            "site_icon-270": {
+                "width": 270,
+                "height": 270,
+                "bytes": 19221,
+                "file": "cropped-Logo-NC-semojias-transparente-1-270x270.png"
+            },
+            "site_icon-192": {
+                "width": 192,
+                "height": 192,
+                "bytes": 11997,
+                "file": "cropped-Logo-NC-semojias-transparente-1-192x192.png"
+            },
+            "site_icon-180": {
+                "width": 180,
+                "height": 180,
+                "bytes": 11100,
+                "file": "cropped-Logo-NC-semojias-transparente-1-180x180.png"
+            },
+            "site_icon-64": {
+                "width": 64,
+                "height": 64,
+                "bytes": 2798,
+                "file": "cropped-Logo-NC-semojias-transparente-1-64x64.png"
+            },
+            "site_icon-32": {
+                "width": 32,
+                "height": 32,
+                "bytes": 1217,
+                "file": "cropped-Logo-NC-semojias-transparente-1-32x32.png"
+            }
+        }
+    },
+    {
+        "id": 83,
+        "file": "2026/10/Logo-NC-semojias-transparente-1.png",
+        "bytes": 52366,
+        "width": 500,
+        "height": 500,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 20737,
+                "file": "Logo-NC-semojias-transparente-1-300x300.png"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 8341,
+                "file": "Logo-NC-semojias-transparente-1-150x150.png"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 500,
+                "height": 450,
+                "bytes": 42173,
+                "file": "Logo-NC-semojias-transparente-1-500x450.png"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 20737,
+                "file": "Logo-NC-semojias-transparente-1-300x300.png"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 4878,
+                "file": "Logo-NC-semojias-transparente-1-100x100.png"
+            }
+        }
+    },
+    {
+        "id": 81,
+        "file": "2026/10/cropped-Logo-NC-semojias.jpeg",
+        "bytes": 8788,
+        "width": 512,
+        "height": 512,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 4432,
+                "file": "cropped-Logo-NC-semojias-300x300.jpeg"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 1836,
+                "file": "cropped-Logo-NC-semojias-150x150.jpeg"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 512,
+                "height": 450,
+                "bytes": 8770,
+                "file": "cropped-Logo-NC-semojias-512x450.jpeg"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 4432,
+                "file": "cropped-Logo-NC-semojias-300x300.jpeg"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 1137,
+                "file": "cropped-Logo-NC-semojias-100x100.jpeg"
+            },
+            "site_icon-270": {
+                "width": 270,
+                "height": 270,
+                "bytes": 3806,
+                "file": "cropped-Logo-NC-semojias-270x270.jpeg"
+            },
+            "site_icon-192": {
+                "width": 192,
+                "height": 192,
+                "bytes": 2420,
+                "file": "cropped-Logo-NC-semojias-192x192.jpeg"
+            },
+            "site_icon-180": {
+                "width": 180,
+                "height": 180,
+                "bytes": 2293,
+                "file": "cropped-Logo-NC-semojias-180x180.jpeg"
+            },
+            "site_icon-64": {
+                "width": 64,
+                "height": 64,
+                "bytes": 712,
+                "file": "cropped-Logo-NC-semojias-64x64.jpeg"
+            },
+            "site_icon-32": {
+                "width": 32,
+                "height": 32,
+                "bytes": 407,
+                "file": "cropped-Logo-NC-semojias-32x32.jpeg"
+            }
+        }
+    },
+    {
+        "id": 80,
+        "file": "2026/10/Logo-NC-semojias.jpeg",
+        "bytes": 8459,
+        "width": 500,
+        "height": 500,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 4514,
+                "file": "Logo-NC-semojias-300x300.jpeg"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 1854,
+                "file": "Logo-NC-semojias-150x150.jpeg"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 500,
+                "height": 450,
+                "bytes": 8742,
+                "file": "Logo-NC-semojias-500x450.jpeg"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 4514,
+                "file": "Logo-NC-semojias-300x300.jpeg"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 1133,
+                "file": "Logo-NC-semojias-100x100.jpeg"
+            }
+        }
+    },
+    {
+        "id": 77,
+        "file": "2026/10/37-1.avif",
+        "bytes": 55661,
+        "width": 1000,
+        "height": 1000,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 10802,
+                "file": "37-1-300x300.avif"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 3776,
+                "file": "37-1-150x150.avif"
+            },
+            "medium_large": {
+                "width": 768,
+                "height": 768,
+                "bytes": 48976,
+                "file": "37-1-768x768.avif"
+            },
+            "orchid-store-thumbnail-extra-large": {
+                "width": 800,
+                "height": 600,
+                "bytes": 38406,
+                "file": "37-1-800x600.avif"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 800,
+                "height": 450,
+                "bytes": 29850,
+                "file": "37-1-800x450.avif"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 10802,
+                "file": "37-1-300x300.avif"
+            },
+            "woocommerce_single": {
+                "width": 600,
+                "height": 600,
+                "bytes": 33308,
+                "file": "37-1-600x600.avif"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 2153,
+                "file": "37-1-100x100.avif"
+            }
+        }
+    },
+    {
+        "id": 74,
+        "file": "2026/10/37.avif",
+        "bytes": 55661,
+        "width": 1000,
+        "height": 1000,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 10802,
+                "file": "37-300x300.avif"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 3776,
+                "file": "37-150x150.avif"
+            },
+            "medium_large": {
+                "width": 768,
+                "height": 768,
+                "bytes": 48976,
+                "file": "37-768x768.avif"
+            },
+            "orchid-store-thumbnail-extra-large": {
+                "width": 800,
+                "height": 600,
+                "bytes": 38406,
+                "file": "37-800x600.avif"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 800,
+                "height": 450,
+                "bytes": 29850,
+                "file": "37-800x450.avif"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 10802,
+                "file": "37-300x300.avif"
+            },
+            "woocommerce_single": {
+                "width": 600,
+                "height": 600,
+                "bytes": 33308,
+                "file": "37-600x600.avif"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 2153,
+                "file": "37-100x100.avif"
+            }
+        }
+    },
+    {
+        "id": 73,
+        "file": "2026/10/images-6.jpg",
+        "bytes": 38328,
+        "width": 447,
+        "height": 447,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 22332,
+                "file": "images-6-300x300.jpg"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 6578,
+                "file": "images-6-150x150.jpg"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 22332,
+                "file": "images-6-300x300.jpg"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 3424,
+                "file": "images-6-100x100.jpg"
+            }
+        }
+    },
+    {
+        "id": 70,
+        "file": "2026/10/depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector.jpg",
+        "bytes": 144443,
+        "width": 1600,
+        "height": 900,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 169,
+                "bytes": 74121,
+                "file": "depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-300x169.jpg"
+            },
+            "large": {
+                "width": 1024,
+                "height": 576,
+                "bytes": 117410,
+                "file": "depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-1024x576.jpg"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 69437,
+                "file": "depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-150x150.jpg"
+            },
+            "medium_large": {
+                "width": 768,
+                "height": 432,
+                "bytes": 98880,
+                "file": "depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-768x432.jpg"
+            },
+            "1536x1536": {
+                "width": 1536,
+                "height": 864,
+                "bytes": 158499,
+                "file": "depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-1536x864.jpg"
+            },
+            "orchid-store-thumbnail-extra-large": {
+                "width": 800,
+                "height": 600,
+                "bytes": 105295,
+                "file": "depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-800x600.jpg"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 800,
+                "height": 450,
+                "bytes": 99971,
+                "file": "depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-800x450.jpg"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 76279,
+                "file": "depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-300x300.jpg"
+            },
+            "woocommerce_single": {
+                "width": 600,
+                "height": 338,
+                "bytes": 88537,
+                "file": "depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-600x338.jpg"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 67675,
+                "file": "depositphotos_352150452-stock-illustration-diamond-seamless-pattern-gem-vector-100x100.jpg"
+            }
+        }
+    },
+    {
+        "id": 57,
+        "file": "2026/10/flags-benelux-members-rectangular-shapes-260nw-2788363349.webp",
+        "bytes": 6160,
+        "width": 881,
+        "height": 280,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 95,
+                "bytes": 1850,
+                "file": "flags-benelux-members-rectangular-shapes-260nw-2788363349-300x95.webp"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 1320,
+                "file": "flags-benelux-members-rectangular-shapes-260nw-2788363349-150x150.webp"
+            },
+            "medium_large": {
+                "width": 768,
+                "height": 244,
+                "bytes": 4360,
+                "file": "flags-benelux-members-rectangular-shapes-260nw-2788363349-768x244.webp"
+            },
+            "orchid-store-thumbnail-extra-large": {
+                "width": 800,
+                "height": 280,
+                "bytes": 5778,
+                "file": "flags-benelux-members-rectangular-shapes-260nw-2788363349-800x280.webp"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 800,
+                "height": 280,
+                "bytes": 5778,
+                "file": "flags-benelux-members-rectangular-shapes-260nw-2788363349-800x280.webp"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 280,
+                "bytes": 2930,
+                "file": "flags-benelux-members-rectangular-shapes-260nw-2788363349-300x280.webp"
+            },
+            "woocommerce_single": {
+                "width": 600,
+                "height": 191,
+                "bytes": 3544,
+                "file": "flags-benelux-members-rectangular-shapes-260nw-2788363349-600x191.webp"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 858,
+                "file": "flags-benelux-members-rectangular-shapes-260nw-2788363349-100x100.webp"
+            }
+        }
+    },
+    {
+        "id": 54,
+        "file": "2026/09/cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888.webp",
+        "bytes": 49560,
+        "width": 1920,
+        "height": 597,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 93,
+                "bytes": 4576,
+                "file": "cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x93.webp"
+            },
+            "large": {
+                "width": 1024,
+                "height": 318,
+                "bytes": 21544,
+                "file": "cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-1024x318.webp"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 6236,
+                "file": "cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-150x150.webp"
+            },
+            "medium_large": {
+                "width": 768,
+                "height": 239,
+                "bytes": 15422,
+                "file": "cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-768x239.webp"
+            },
+            "1536x1536": {
+                "width": 1536,
+                "height": 478,
+                "bytes": 34992,
+                "file": "cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-1536x478.webp"
+            },
+            "orchid-store-thumbnail-extra-large": {
+                "width": 800,
+                "height": 597,
+                "bytes": 40320,
+                "file": "cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-800x597.webp"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 800,
+                "height": 450,
+                "bytes": 29762,
+                "file": "cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-800x450.webp"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 13986,
+                "file": "cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp"
+            },
+            "woocommerce_single": {
+                "width": 600,
+                "height": 187,
+                "bytes": 11604,
+                "file": "cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-600x187.webp"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 3460,
+                "file": "cropped-brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-100x100.webp"
+            }
+        }
+    },
+    {
+        "id": 52,
+        "file": "2026/09/cropped-images-4.jpg",
+        "bytes": 85281,
+        "width": 1920,
+        "height": 1211,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 189,
+                "bytes": 5991,
+                "file": "cropped-images-4-300x189.jpg"
+            },
+            "large": {
+                "width": 1024,
+                "height": 646,
+                "bytes": 34987,
+                "file": "cropped-images-4-1024x646.jpg"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 4217,
+                "file": "cropped-images-4-150x150.jpg"
+            },
+            "medium_large": {
+                "width": 768,
+                "height": 484,
+                "bytes": 23240,
+                "file": "cropped-images-4-768x484.jpg"
+            },
+            "1536x1536": {
+                "width": 1536,
+                "height": 969,
+                "bytes": 61478,
+                "file": "cropped-images-4-1536x969.jpg"
+            },
+            "orchid-store-thumbnail-extra-large": {
+                "width": 800,
+                "height": 600,
+                "bytes": 30727,
+                "file": "cropped-images-4-800x600.jpg"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 800,
+                "height": 450,
+                "bytes": 23806,
+                "file": "cropped-images-4-800x450.jpg"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 11148,
+                "file": "cropped-images-4-300x300.jpg"
+            },
+            "woocommerce_single": {
+                "width": 600,
+                "height": 378,
+                "bytes": 16296,
+                "file": "cropped-images-4-600x378.jpg"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 2375,
+                "file": "cropped-images-4-100x100.jpg"
+            }
+        }
+    },
+    {
+        "id": 44,
+        "file": "2026/09/images-5.jpg",
+        "bytes": 16695,
+        "width": 447,
+        "height": 447,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 10797,
+                "file": "images-5-300x300.jpg"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 3678,
+                "file": "images-5-150x150.jpg"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 10797,
+                "file": "images-5-300x300.jpg"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 2170,
+                "file": "images-5-100x100.jpg"
+            }
+        }
+    },
+    {
+        "id": 43,
+        "file": "2026/09/images-4.jpg",
+        "bytes": 11093,
+        "width": 447,
+        "height": 447,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 6690,
+                "file": "images-4-300x300.jpg"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 2437,
+                "file": "images-4-150x150.jpg"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 6690,
+                "file": "images-4-300x300.jpg"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 1467,
+                "file": "images-4-100x100.jpg"
+            }
+        }
+    },
+    {
+        "id": 42,
+        "file": "2026/09/brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888.webp",
+        "bytes": 37110,
+        "width": 798,
+        "height": 800,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 8622,
+                "file": "brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 3300,
+                "file": "brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-150x150.webp"
+            },
+            "medium_large": {
+                "width": 768,
+                "height": 770,
+                "bytes": 30520,
+                "file": "brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-768x770.webp"
+            },
+            "orchid-store-thumbnail-extra-large": {
+                "width": 798,
+                "height": 600,
+                "bytes": 32636,
+                "file": "brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-798x600.webp"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 798,
+                "height": 450,
+                "bytes": 29910,
+                "file": "brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-798x450.webp"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 8556,
+                "file": "brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-300x300.webp"
+            },
+            "woocommerce_single": {
+                "width": 600,
+                "height": 602,
+                "bytes": 21808,
+                "file": "brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-600x602.webp"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 1924,
+                "file": "brinco-prata-925-folha-trabalhada-02060478-02-20251008150735-1759948784.0888-100x100.webp"
+            }
+        }
+    },
+    {
+        "id": 41,
+        "file": "2026/09/11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689.webp",
+        "bytes": 36794,
+        "width": 1000,
+        "height": 1000,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 5112,
+                "file": "11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 2088,
+                "file": "11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-150x150.webp"
+            },
+            "medium_large": {
+                "width": 768,
+                "height": 768,
+                "bytes": 23272,
+                "file": "11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-768x768.webp"
+            },
+            "orchid-store-thumbnail-extra-large": {
+                "width": 800,
+                "height": 600,
+                "bytes": 21404,
+                "file": "11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-800x600.webp"
+            },
+            "orchid-store-thumbnail-large": {
+                "width": 800,
+                "height": 450,
+                "bytes": 15320,
+                "file": "11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-800x450.webp"
+            },
+            "woocommerce_thumbnail": {
+                "width": 300,
+                "height": 300,
+                "bytes": 5112,
+                "file": "11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-300x300.webp"
+            },
+            "woocommerce_single": {
+                "width": 600,
+                "height": 600,
+                "bytes": 15612,
+                "file": "11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-600x600.webp"
+            },
+            "woocommerce_gallery_thumbnail": {
+                "width": 100,
+                "height": 100,
+                "bytes": 1412,
+                "file": "11727_colar-colors-branco-luz-prata-leve-pr-10909-ff40972_z1_637746672771483689-100x100.webp"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "file": "woocommerce-placeholder.webp",
+        "bytes": null,
+        "width": 1200,
+        "height": 1200,
+        "sizes": {
+            "medium": {
+                "width": 300,
+                "height": 300,
+                "bytes": 1760,
+                "file": "woocommerce-placeholder-300x300.webp"
+            },
+            "large": {
+                "width": 1024,
+                "height": 1024,
+                "bytes": 6324,
+                "file": "woocommerce-placeholder-1024x1024.webp"
+            },
+            "thumbnail": {
+                "width": 150,
+                "height": 150,
+                "bytes": 1082,
+                "file": "woocommerce-placeholder-150x150.webp"
+            },
+            "medium_large": {
+                "width": 768,
+                "height": 768,
+                "bytes": 4394,
+                "file": "woocommerce-placeholder-768x768.webp"
+            }
+        }
+    }
+]

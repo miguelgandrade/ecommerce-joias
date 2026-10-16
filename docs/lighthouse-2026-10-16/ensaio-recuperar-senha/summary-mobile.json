@@ -1,0 +1,120 @@
+[
+  {
+    "id": "recuperar-senha",
+    "label": "Recuperar senha",
+    "url": "http://localhost:8080/?page_id=9&lost-password",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=9&lost-password",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 74,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 2278.3,
+      "largest-contentful-paint": 5266.525,
+      "total-blocking-time": 220,
+      "cumulative-layout-shift": 0,
+      "speed-index": 2747.6884079999,
+      "total-byte-weight": 695922,
+      "server-response-time": 127
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.75,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.22,
+        "displayValue": "5.3 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.96,
+        "displayValue": "2.7 s"
+      },
+      {
+        "id": "total-blocking-time",
+        "title": "Total Blocking Time",
+        "score": 0.87,
+        "displayValue": "220 ms"
+      },
+      {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "score": 0.59,
+        "displayValue": "220 ms"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.73,
+        "displayValue": "5.3 s"
+      },
+      {
+        "id": "valid-source-maps",
+        "title": "Missing source maps for large first-party JavaScript",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 63 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 601 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,490 ms"
+      }
+    ]
+  }
+]

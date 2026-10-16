@@ -1,0 +1,3876 @@
+[
+  {
+    "id": "home",
+    "label": "Início",
+    "url": "http://localhost:8080/",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 912.346,
+      "largest-contentful-paint": 2262.346,
+      "total-blocking-time": 73,
+      "cumulative-layout-shift": 0,
+      "speed-index": 914.3585600020868,
+      "total-byte-weight": 434263,
+      "server-response-time": 134
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.94,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "total-blocking-time",
+        "title": "Total Blocking Time",
+        "score": 0.99,
+        "displayValue": "70 ms"
+      },
+      {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "score": 0.91,
+        "displayValue": "120 ms"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.99,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 11 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 390 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "displayValue": "Est savings of 84 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 180 ms"
+      }
+    ]
+  },
+  {
+    "id": "loja",
+    "label": "Loja",
+    "url": "http://localhost:8080/?page_id=6",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?post_type=product",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 91,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 1969.7240000000002,
+      "largest-contentful-paint": 3189.4480000000003,
+      "total-blocking-time": 6,
+      "cumulative-layout-shift": 0,
+      "speed-index": 2783.799600000235,
+      "total-byte-weight": 348783,
+      "server-response-time": 163
+    },
+    "warnings": [
+      "The page may not be loading as expected because your test URL (http://localhost:8080/?page_id=6) was redirected to http://localhost:8080/?post_type=product. Try testing the second URL directly."
+    ],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.85,
+        "displayValue": "2.0 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.73,
+        "displayValue": "3.2 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.96,
+        "displayValue": "2.8 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.94,
+        "displayValue": "3.2 s"
+      },
+      {
+        "id": "redirects",
+        "title": "Avoid multiple page redirects",
+        "score": 0,
+        "displayValue": "Est savings of 600 ms"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels do not have matching accessible names.",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 59 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 262 KiB"
+      },
+      {
+        "id": "document-latency-insight",
+        "title": "Document request latency",
+        "score": 0,
+        "displayValue": "Est savings of 120 ms"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 12 KiB"
+      },
+      {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "score": 0
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,090 ms"
+      }
+    ]
+  },
+  {
+    "id": "carrinho",
+    "label": "Carrinho",
+    "url": "http://localhost:8080/?page_id=7",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=7",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 52,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 3946.446,
+      "largest-contentful-paint": 8890.446,
+      "total-blocking-time": 412,
+      "cumulative-layout-shift": 0,
+      "speed-index": 6225.791984268924,
+      "total-byte-weight": 1163667,
+      "server-response-time": 209
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.24,
+        "displayValue": "3.9 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.01,
+        "displayValue": "8.9 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.43,
+        "displayValue": "6.2 s"
+      },
+      {
+        "id": "total-blocking-time",
+        "title": "Total Blocking Time",
+        "score": 0.66,
+        "displayValue": "410 ms"
+      },
+      {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "score": 0.6,
+        "displayValue": "220 ms"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.34,
+        "displayValue": "8.9 s"
+      },
+      {
+        "id": "mainthread-work-breakdown",
+        "title": "Minimize main-thread work",
+        "score": 0,
+        "displayValue": "3.0 s"
+      },
+      {
+        "id": "bootup-time",
+        "title": "Reduce JavaScript execution time",
+        "score": 0,
+        "displayValue": "1.5 s"
+      },
+      {
+        "id": "valid-source-maps",
+        "title": "Missing source maps for large first-party JavaScript",
+        "score": 0
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels do not have matching accessible names.",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 63 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 286 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 1,043 KiB"
+      },
+      {
+        "id": "forced-reflow-insight",
+        "title": "Forced reflow",
+        "score": 0
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "displayValue": "Est savings of 9 KiB"
+      },
+      {
+        "id": "legacy-javascript-insight",
+        "title": "Legacy JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 10 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,220 ms"
+      }
+    ]
+  },
+  {
+    "id": "minha-conta",
+    "label": "Minha conta",
+    "url": "http://localhost:8080/?page_id=9",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=9",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 94,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 2116.004,
+      "largest-contentful-paint": 2765.0039999999995,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0.00007506462384150353,
+      "speed-index": 2754.4587440000664,
+      "total-byte-weight": 286374,
+      "server-response-time": 185
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.8,
+        "displayValue": "2.1 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.84,
+        "displayValue": "2.8 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.96,
+        "displayValue": "2.8 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.97,
+        "displayValue": "2.8 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 63 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 202 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,350 ms"
+      }
+    ]
+  },
+  {
+    "id": "produtos",
+    "label": "Produtos",
+    "url": "http://localhost:8080/?page_id=19",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=19",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 908.829,
+      "largest-contentful-paint": 1391.7435,
+      "total-blocking-time": 3.5,
+      "cumulative-layout-shift": 0,
+      "speed-index": 908.829,
+      "total-byte-weight": 177251,
+      "server-response-time": 157
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 14 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 146 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 38 KiB"
+      },
+      {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "score": 0
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 210 ms"
+      }
+    ]
+  },
+  {
+    "id": "sobre-a-loja",
+    "label": "Sobre a loja",
+    "url": "http://localhost:8080/?page_id=21",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=21",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 906.9169999999999,
+      "largest-contentful-paint": 1206.917,
+      "total-blocking-time": 33,
+      "cumulative-layout-shift": 0,
+      "speed-index": 906.9169999999999,
+      "total-byte-weight": 68532,
+      "server-response-time": 119
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "score": 0.98,
+        "displayValue": "80 ms"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 13 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 38 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 190 ms"
+      }
+    ]
+  },
+  {
+    "id": "ajuda",
+    "label": "Como podemos ajudar?",
+    "url": "http://localhost:8080/?page_id=125",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=125",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 903.252,
+      "largest-contentful-paint": 1188.252,
+      "total-blocking-time": 20,
+      "cumulative-layout-shift": 0,
+      "speed-index": 903.252,
+      "total-byte-weight": 48486,
+      "server-response-time": 113
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "score": 0.99,
+        "displayValue": "70 ms"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 14 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 21 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 210 ms"
+      }
+    ]
+  },
+  {
+    "id": "entrega-e-frete",
+    "label": "Entrega e frete",
+    "url": "http://localhost:8080/?page_id=126",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=126",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 905.8509999999999,
+      "largest-contentful-paint": 1164.8509999999999,
+      "total-blocking-time": 10,
+      "cumulative-layout-shift": 0,
+      "speed-index": 905.8509999999999,
+      "total-byte-weight": 48609,
+      "server-response-time": 129
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 14 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 21 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 210 ms"
+      }
+    ]
+  },
+  {
+    "id": "trocas-e-devolucoes",
+    "label": "Trocas e devoluções",
+    "url": "http://localhost:8080/?page_id=127",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=127",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 904.7719999999999,
+      "largest-contentful-paint": 1147.772,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 904.7719999999999,
+      "total-byte-weight": 48617,
+      "server-response-time": 138
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 14 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 21 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 220 ms"
+      }
+    ]
+  },
+  {
+    "id": "cancelamentos-e-reembolsos",
+    "label": "Cancelamentos e reembolsos",
+    "url": "http://localhost:8080/?page_id=128",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=128",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 912.31,
+      "largest-contentful-paint": 1177.31,
+      "total-blocking-time": 12,
+      "cumulative-layout-shift": 0,
+      "speed-index": 912.31,
+      "total-byte-weight": 48592,
+      "server-response-time": 130
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 14 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 21 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 210 ms"
+      }
+    ]
+  },
+  {
+    "id": "cuidados-com-as-pecas",
+    "label": "Cuidados com as peças",
+    "url": "http://localhost:8080/?page_id=129",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=129",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 909.3230000000001,
+      "largest-contentful-paint": 1184.323,
+      "total-blocking-time": 14,
+      "cumulative-layout-shift": 0,
+      "speed-index": 909.3230000000001,
+      "total-byte-weight": 48591,
+      "server-response-time": 113
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 14 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 21 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 200 ms"
+      }
+    ]
+  },
+  {
+    "id": "guia-de-tamanhos",
+    "label": "Guia de tamanhos",
+    "url": "http://localhost:8080/?page_id=130",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=130",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 912.8009999999999,
+      "largest-contentful-paint": 1234.801,
+      "total-blocking-time": 73,
+      "cumulative-layout-shift": 0,
+      "speed-index": 912.8009999999999,
+      "total-byte-weight": 48756,
+      "server-response-time": 165
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "total-blocking-time",
+        "title": "Total Blocking Time",
+        "score": 0.99,
+        "displayValue": "70 ms"
+      },
+      {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "score": 0.91,
+        "displayValue": "120 ms"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 14 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 21 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 190 ms"
+      }
+    ]
+  },
+  {
+    "id": "pagamento-nao-concluido",
+    "label": "Pagamento não concluído",
+    "url": "http://localhost:8080/?page_id=131",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=131",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 904.9390000000001,
+      "largest-contentful-paint": 1169.939,
+      "total-blocking-time": 15,
+      "cumulative-layout-shift": 0,
+      "speed-index": 904.9390000000001,
+      "total-byte-weight": 48548,
+      "server-response-time": 121
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 14 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 21 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 200 ms"
+      }
+    ]
+  },
+  {
+    "id": "pedido-cancelado",
+    "label": "Pedido cancelado",
+    "url": "http://localhost:8080/?page_id=132",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=132",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 908.56,
+      "largest-contentful-paint": 1169.56,
+      "total-blocking-time": 11,
+      "cumulative-layout-shift": 0,
+      "speed-index": 908.56,
+      "total-byte-weight": 48556,
+      "server-response-time": 129
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 14 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 21 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 210 ms"
+      }
+    ]
+  },
+  {
+    "id": "manutencao",
+    "label": "Voltamos em breve",
+    "url": "http://localhost:8080/?page_id=133",
+    "expectedStatus": 503,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=133",
+    "version": "13.5.0",
+    "scores": {
+      "performance": null,
+      "accessibility": null,
+      "best-practices": null,
+      "seo": null
+    },
+    "metrics": {
+      "first-contentful-paint": null,
+      "largest-contentful-paint": null,
+      "total-blocking-time": null,
+      "cumulative-layout-shift": null,
+      "speed-index": null,
+      "total-byte-weight": null,
+      "server-response-time": null
+    },
+    "runtimeError": {
+      "code": "ERRORED_DOCUMENT_REQUEST",
+      "message": "Lighthouse was unable to reliably load the page you requested. Make sure you are testing the correct URL and that the server is properly responding to all requests. (Status code: 503)",
+      "errorStack": "LighthouseError: ERRORED_DOCUMENT_REQUEST\n    at getNetworkError (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/lib/navigation-error.js:61:14)\n    at getPageLoadError (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/lib/navigation-error.js:165:24)\n    at _computeNavigationResult (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/gather/navigation-runner.js:148:7)\n    at async gatherFn (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/gather/navigation-runner.js:300:23)\n    at async Runner.gather (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/runner.js:232:25)\n    at async navigationGather (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/gather/navigation-runner.js:306:21)\n    at async navigation (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/index.js:58:24)\n    at async file:///home/miguel/projetos/ecommerce-joias/scripts/audit-lighthouse.mjs:58:20",
+      "artifactKey": "PageLoadError"
+    },
+    "warnings": [
+      "Lighthouse was unable to reliably load the page you requested. Make sure you are testing the correct URL and that the server is properly responding to all requests. (Status code: 503)"
+    ],
+    "failures": []
+  },
+  {
+    "id": "categoria-sem-categoria",
+    "label": "Categoria Sem categoria",
+    "url": "http://localhost:8080/?product_cat=sem-categoria",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product_cat=sem-categoria",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 1669.242,
+      "largest-contentful-paint": 2288.484,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 1669.242,
+      "total-byte-weight": 212152,
+      "server-response-time": 117
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.93,
+        "displayValue": "1.7 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.93,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.99,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 65 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 178 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 970 ms"
+      }
+    ]
+  },
+  {
+    "id": "categoria-aneis",
+    "label": "Categoria Aneis",
+    "url": "http://localhost:8080/?product_cat=aneis",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product_cat=aneis",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 97,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 1818.906,
+      "largest-contentful-paint": 2431.51,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 1818.906,
+      "total-byte-weight": 272804,
+      "server-response-time": 211
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.89,
+        "displayValue": "1.8 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.91,
+        "displayValue": "2.4 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.98,
+        "displayValue": "2.4 s"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels do not have matching accessible names.",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 60 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0.5,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 189 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "score": 0
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,100 ms"
+      }
+    ]
+  },
+  {
+    "id": "categoria-brinco",
+    "label": "Categoria Brincos",
+    "url": "http://localhost:8080/?product_cat=brinco",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product_cat=brinco",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 95,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 1817.2649999999999,
+      "largest-contentful-paint": 2728.775,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 2573.3102520000925,
+      "total-byte-weight": 275696,
+      "server-response-time": 150
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.89,
+        "displayValue": "1.8 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.85,
+        "displayValue": "2.7 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.97,
+        "displayValue": "2.6 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.97,
+        "displayValue": "2.7 s"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels do not have matching accessible names.",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 60 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 192 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "score": 0
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,120 ms"
+      }
+    ]
+  },
+  {
+    "id": "categoria-colar",
+    "label": "Categoria Colar",
+    "url": "http://localhost:8080/?product_cat=colar",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product_cat=colar",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 95,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 1817.133,
+      "largest-contentful-paint": 2728.555,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 1817.133,
+      "total-byte-weight": 277405,
+      "server-response-time": 131
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.89,
+        "displayValue": "1.8 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.85,
+        "displayValue": "2.7 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.97,
+        "displayValue": "2.7 s"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels do not have matching accessible names.",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 60 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 193 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "score": 0
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,100 ms"
+      }
+    ]
+  },
+  {
+    "id": "categoria-escapulario",
+    "label": "Categoria Escapulário",
+    "url": "http://localhost:8080/?product_cat=escapulario",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product_cat=escapulario",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 95,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 1814.232,
+      "largest-contentful-paint": 2737.952,
+      "total-blocking-time": 3,
+      "cumulative-layout-shift": 0,
+      "speed-index": 1814.232,
+      "total-byte-weight": 300043,
+      "server-response-time": 149
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.89,
+        "displayValue": "1.8 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.84,
+        "displayValue": "2.7 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.97,
+        "displayValue": "2.7 s"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels do not have matching accessible names.",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 60 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 216 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "displayValue": "Est savings of 28 KiB"
+      },
+      {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "score": 0
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,110 ms"
+      }
+    ]
+  },
+  {
+    "id": "categoria-pulseiras",
+    "label": "Categoria Pulseiras",
+    "url": "http://localhost:8080/?product_cat=pulseiras",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product_cat=pulseiras",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 97,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 1814.0625,
+      "largest-contentful-paint": 2423.4375,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 1814.0625,
+      "total-byte-weight": 278405,
+      "server-response-time": 186
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.89,
+        "displayValue": "1.8 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.91,
+        "displayValue": "2.4 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.98,
+        "displayValue": "2.4 s"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels do not have matching accessible names.",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 60 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0.5,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 194 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "score": 0
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,110 ms"
+      }
+    ]
+  },
+  {
+    "id": "categoria-tornozeleira",
+    "label": "Categoria Tornozeleira",
+    "url": "http://localhost:8080/?product_cat=tornozeleira",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product_cat=tornozeleira",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 94,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 1813.5795,
+      "largest-contentful-paint": 2886.212,
+      "total-blocking-time": 11,
+      "cumulative-layout-shift": 0,
+      "speed-index": 2526.771759999826,
+      "total-byte-weight": 295039,
+      "server-response-time": 115
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.89,
+        "displayValue": "1.8 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.81,
+        "displayValue": "2.9 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.97,
+        "displayValue": "2.5 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.96,
+        "displayValue": "2.9 s"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels do not have matching accessible names.",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 60 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 211 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "displayValue": "Est savings of 29 KiB"
+      },
+      {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "score": 0
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,140 ms"
+      }
+    ]
+  },
+  {
+    "id": "novidades",
+    "label": "Novidades",
+    "url": "http://localhost:8080/?post_type=product&nc_vitrine=novidades",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?post_type=product&nc_vitrine=novidades",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 91,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 1812.969,
+      "largest-contentful-paint": 3259.584,
+      "total-blocking-time": 19,
+      "cumulative-layout-shift": 0,
+      "speed-index": 2566.0690480002495,
+      "total-byte-weight": 372054,
+      "server-response-time": 156
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.89,
+        "displayValue": "1.8 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.71,
+        "displayValue": "3.3 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.97,
+        "displayValue": "2.6 s"
+      },
+      {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "score": 0.99,
+        "displayValue": "70 ms"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.94,
+        "displayValue": "3.3 s"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels do not have matching accessible names.",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 59 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 285 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "displayValue": "Est savings of 53 KiB"
+      },
+      {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "score": 0
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,120 ms"
+      }
+    ]
+  },
+  {
+    "id": "mais-vendidos",
+    "label": "Mais Vendidos",
+    "url": "http://localhost:8080/?post_type=product&nc_vitrine=mais-vendidos",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?post_type=product&nc_vitrine=mais-vendidos",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 1517.1375,
+      "largest-contentful-paint": 2284.2750000000005,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 1517.1375,
+      "total-byte-weight": 212156,
+      "server-response-time": 127
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.95,
+        "displayValue": "1.5 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.93,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.99,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 64 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 178 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 820 ms"
+      }
+    ]
+  },
+  {
+    "id": "busca-vazia",
+    "label": "Busca de produtos sem resultados",
+    "url": "http://localhost:8080/?s=ncsemresultado987654&post_type=product",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?s=ncsemresultado987654&post_type=product",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 63
+    },
+    "metrics": {
+      "first-contentful-paint": 1666.0215,
+      "largest-contentful-paint": 2282.043,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 1666.0215,
+      "total-byte-weight": 212318,
+      "server-response-time": 106
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.93,
+        "displayValue": "1.7 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.93,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.99,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 64 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 178 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 980 ms"
+      }
+    ]
+  },
+  {
+    "id": "busca-geral-vazia",
+    "label": "Busca geral sem resultados",
+    "url": "http://localhost:8080/?s=ncsemresultado987654",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?s=ncsemresultado987654",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 54
+    },
+    "metrics": {
+      "first-contentful-paint": 905.0550000000001,
+      "largest-contentful-paint": 1167.055,
+      "total-blocking-time": 10,
+      "cumulative-layout-shift": 0,
+      "speed-index": 905.0550000000001,
+      "total-byte-weight": 48069,
+      "server-response-time": 120
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 14 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 21 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 220 ms"
+      }
+    ]
+  },
+  {
+    "id": "404",
+    "label": "Página 404",
+    "url": "http://localhost:8080/?p=999999999",
+    "expectedStatus": 404,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?p=999999999",
+    "version": "13.5.0",
+    "scores": {
+      "performance": null,
+      "accessibility": null,
+      "best-practices": null,
+      "seo": null
+    },
+    "metrics": {
+      "first-contentful-paint": null,
+      "largest-contentful-paint": null,
+      "total-blocking-time": null,
+      "cumulative-layout-shift": null,
+      "speed-index": null,
+      "total-byte-weight": null,
+      "server-response-time": null
+    },
+    "runtimeError": {
+      "code": "ERRORED_DOCUMENT_REQUEST",
+      "message": "Lighthouse was unable to reliably load the page you requested. Make sure you are testing the correct URL and that the server is properly responding to all requests. (Status code: 404)",
+      "errorStack": "LighthouseError: ERRORED_DOCUMENT_REQUEST\n    at getNetworkError (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/lib/navigation-error.js:61:14)\n    at getPageLoadError (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/lib/navigation-error.js:165:24)\n    at _computeNavigationResult (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/gather/navigation-runner.js:148:7)\n    at async gatherFn (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/gather/navigation-runner.js:300:23)\n    at async Runner.gather (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/runner.js:232:25)\n    at async navigationGather (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/gather/navigation-runner.js:306:21)\n    at async navigation (file:///tmp/nc-lighthouse-tools/node_modules/lighthouse/core/index.js:58:24)\n    at async file:///home/miguel/projetos/ecommerce-joias/scripts/audit-lighthouse.mjs:58:20",
+      "artifactKey": "PageLoadError"
+    },
+    "warnings": [
+      "Lighthouse was unable to reliably load the page you requested. Make sure you are testing the correct URL and that the server is properly responding to all requests. (Status code: 404)"
+    ],
+    "failures": []
+  },
+  {
+    "id": "carrinho-preenchido",
+    "label": "Carrinho com produto",
+    "url": "http://localhost:8080/?page_id=7",
+    "cart": true,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=7",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 38,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 2627.5896000000002,
+      "largest-contentful-paint": 8009.179199999999,
+      "total-blocking-time": 2137.2736000000004,
+      "cumulative-layout-shift": 0.03137433950118775,
+      "speed-index": 6078.750337986885,
+      "total-byte-weight": 1134500,
+      "server-response-time": 181
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.63,
+        "displayValue": "2.6 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.02,
+        "displayValue": "8.0 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.45,
+        "displayValue": "6.1 s"
+      },
+      {
+        "id": "total-blocking-time",
+        "title": "Total Blocking Time",
+        "score": 0.06,
+        "displayValue": "2,140 ms"
+      },
+      {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "score": 0,
+        "displayValue": "1,240 ms"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.42,
+        "displayValue": "8.0 s"
+      },
+      {
+        "id": "mainthread-work-breakdown",
+        "title": "Minimize main-thread work",
+        "score": 0,
+        "displayValue": "6.1 s"
+      },
+      {
+        "id": "bootup-time",
+        "title": "Reduce JavaScript execution time",
+        "score": 0,
+        "displayValue": "3.5 s"
+      },
+      {
+        "id": "valid-source-maps",
+        "title": "Missing source maps for large first-party JavaScript",
+        "score": 0
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels do not have matching accessible names.",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 64 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 839 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 953 KiB"
+      },
+      {
+        "id": "forced-reflow-insight",
+        "title": "Forced reflow",
+        "score": 0
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "legacy-javascript-insight",
+        "title": "Legacy JavaScript",
+        "score": 0.5,
+        "displayValue": "Est savings of 10 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 810 ms"
+      }
+    ]
+  },
+  {
+    "id": "checkout",
+    "label": "Finalizar compra com produto",
+    "url": "http://localhost:8080/?page_id=8",
+    "cart": true,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=8",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 38,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 3046.0436,
+      "largest-contentful-paint": 8460.7684,
+      "total-blocking-time": 2118.6376,
+      "cumulative-layout-shift": 0,
+      "speed-index": 5594.103571436718,
+      "total-byte-weight": 1053847,
+      "server-response-time": 194
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.48,
+        "displayValue": "3.0 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.02,
+        "displayValue": "8.5 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.53,
+        "displayValue": "5.6 s"
+      },
+      {
+        "id": "total-blocking-time",
+        "title": "Total Blocking Time",
+        "score": 0.07,
+        "displayValue": "2,120 ms"
+      },
+      {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "score": 0,
+        "displayValue": "1,070 ms"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.38,
+        "displayValue": "8.5 s"
+      },
+      {
+        "id": "mainthread-work-breakdown",
+        "title": "Minimize main-thread work",
+        "score": 0,
+        "displayValue": "6.7 s"
+      },
+      {
+        "id": "bootup-time",
+        "title": "Reduce JavaScript execution time",
+        "score": 0,
+        "displayValue": "3.9 s"
+      },
+      {
+        "id": "valid-source-maps",
+        "title": "Missing source maps for large first-party JavaScript",
+        "score": 0
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels do not have matching accessible names.",
+        "score": 0
+      },
+      {
+        "id": "autocomplete-valid",
+        "title": "`autocomplete` attributes are not used correctly",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 75 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 248 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 876 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "legacy-javascript-insight",
+        "title": "Legacy JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 10 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,510 ms"
+      }
+    ]
+  },
+  {
+    "id": "manutencao-render",
+    "label": "Voltamos em breve (conteúdo com status normalizado só no navegador de teste)",
+    "url": "http://localhost:8080/?page_id=133",
+    "expectedStatus": 503,
+    "measureErrorDocument": true,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=133",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 903.336,
+      "largest-contentful-paint": 1257.336,
+      "total-blocking-time": 11,
+      "cumulative-layout-shift": 0,
+      "speed-index": 903.336,
+      "total-byte-weight": 73158,
+      "server-response-time": 0
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 14 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 21 KiB"
+      },
+      {
+        "id": "document-latency-insight",
+        "title": "Document request latency",
+        "score": 0.5,
+        "displayValue": "Est savings of 22 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 60 ms"
+      }
+    ]
+  },
+  {
+    "id": "404-render",
+    "label": "Página 404 (conteúdo com status normalizado só no navegador de teste)",
+    "url": "http://localhost:8080/?p=999999999",
+    "expectedStatus": 404,
+    "measureErrorDocument": true,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?p=999999999",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 91
+    },
+    "metrics": {
+      "first-contentful-paint": 902.692,
+      "largest-contentful-paint": 1261.692,
+      "total-blocking-time": 20,
+      "cumulative-layout-shift": 0,
+      "speed-index": 902.692,
+      "total-byte-weight": 72137,
+      "server-response-time": 0
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "score": 0.99,
+        "displayValue": "70 ms"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 3 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 14 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 21 KiB"
+      },
+      {
+        "id": "document-latency-insight",
+        "title": "Document request latency",
+        "score": 0.5,
+        "displayValue": "Est savings of 21 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 70 ms"
+      }
+    ]
+  },
+  {
+    "id": "conta-dashboard",
+    "label": "Painel da conta autenticada",
+    "auth": true,
+    "url": "http://localhost:8080/?page_id=9",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=9",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 91,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 2272.92435,
+      "largest-contentful-paint": 3022.9243499999993,
+      "total-blocking-time": 21.999999999999545,
+      "cumulative-layout-shift": 0.00001277146768688954,
+      "speed-index": 2731.423225583063,
+      "total-byte-weight": 313130,
+      "server-response-time": 137
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.75,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.77,
+        "displayValue": "3.0 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.96,
+        "displayValue": "2.7 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.96,
+        "displayValue": "3.0 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 62 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 276 KiB"
+      },
+      {
+        "id": "font-display-insight",
+        "title": "Font display",
+        "score": 0.5,
+        "displayValue": "Est savings of 10 ms"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,460 ms"
+      }
+    ]
+  },
+  {
+    "id": "conta-edit-address",
+    "label": "Endereços da conta autenticada",
+    "auth": true,
+    "url": "http://localhost:8080/?page_id=9&edit-address",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=9&edit-address",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 94,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 1965.75675,
+      "largest-contentful-paint": 2815.75675,
+      "total-blocking-time": 74,
+      "cumulative-layout-shift": 0,
+      "speed-index": 2627.010281999914,
+      "total-byte-weight": 262007,
+      "server-response-time": 168
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.85,
+        "displayValue": "2.0 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.83,
+        "displayValue": "2.8 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.97,
+        "displayValue": "2.6 s"
+      },
+      {
+        "id": "total-blocking-time",
+        "title": "Total Blocking Time",
+        "score": 0.99,
+        "displayValue": "70 ms"
+      },
+      {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "score": 0.96,
+        "displayValue": "100 ms"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.97,
+        "displayValue": "2.8 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 63 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 205 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,040 ms"
+      }
+    ]
+  },
+  {
+    "id": "conta-edit-account",
+    "label": "Dados da conta autenticada",
+    "auth": true,
+    "url": "http://localhost:8080/?page_id=9&edit-account",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=9&edit-account",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 72,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 2285.333,
+      "largest-contentful-paint": 5325.83275,
+      "total-blocking-time": 278,
+      "cumulative-layout-shift": 0,
+      "speed-index": 2756.5520112456543,
+      "total-byte-weight": 696031,
+      "server-response-time": 139
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.75,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.21,
+        "displayValue": "5.3 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.96,
+        "displayValue": "2.8 s"
+      },
+      {
+        "id": "total-blocking-time",
+        "title": "Total Blocking Time",
+        "score": 0.81,
+        "displayValue": "280 ms"
+      },
+      {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "score": 0.36,
+        "displayValue": "300 ms"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.73,
+        "displayValue": "5.3 s"
+      },
+      {
+        "id": "valid-source-maps",
+        "title": "Missing source maps for large first-party JavaScript",
+        "score": 0
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 62 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 601 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,510 ms"
+      }
+    ]
+  },
+  {
+    "id": "conta-orders",
+    "label": "Pedidos (conta sem compras)",
+    "auth": true,
+    "url": "http://localhost:8080/?page_id=9&orders",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=9&orders",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 91,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 2269.5673500000003,
+      "largest-contentful-paint": 3019.567350000001,
+      "total-blocking-time": 6.000000000000455,
+      "cumulative-layout-shift": 0,
+      "speed-index": 2733.6816241291026,
+      "total-byte-weight": 312888,
+      "server-response-time": 127
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.75,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.77,
+        "displayValue": "3.0 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.96,
+        "displayValue": "2.7 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.96,
+        "displayValue": "3.0 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 62 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 276 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,510 ms"
+      }
+    ]
+  },
+  {
+    "id": "pagina-exemplo",
+    "label": "Página de exemplo",
+    "url": "http://localhost:8080/?page_id=2",
+    "expectedStatus": 200,
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=2",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 95,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 2029.8465,
+      "largest-contentful-paint": 2479.8464999999997,
+      "total-blocking-time": 16,
+      "cumulative-layout-shift": 0,
+      "speed-index": 2716.0763739998897,
+      "total-byte-weight": 213288,
+      "server-response-time": 188
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.83,
+        "displayValue": "2.0 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.9,
+        "displayValue": "2.5 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.96,
+        "displayValue": "2.7 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.98,
+        "displayValue": "2.5 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 65 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 178 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,050 ms"
+      }
+    ]
+  },
+  {
+    "id": "produto-92",
+    "label": "Brinco bacana",
+    "url": "http://localhost:8080/?product=brinco-bacana",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product=brinco-bacana",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 88,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 2276.3419999999996,
+      "largest-contentful-paint": 3489.512999999999,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 2941.55463732148,
+      "total-byte-weight": 438119,
+      "server-response-time": 163
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.75,
+        "displayValue": "2.3 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.64,
+        "displayValue": "3.5 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.94,
+        "displayValue": "2.9 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.92,
+        "displayValue": "3.5 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 60 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0.5,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 348 KiB"
+      },
+      {
+        "id": "font-display-insight",
+        "title": "Font display",
+        "score": 0.5,
+        "displayValue": "Est savings of 10 ms"
+      },
+      {
+        "id": "forced-reflow-insight",
+        "title": "Forced reflow",
+        "score": 0
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,510 ms"
+      }
+    ]
+  },
+  {
+    "id": "produto-82",
+    "label": "Tornozeleira chique",
+    "url": "http://localhost:8080/?product=tornozeleira-chique",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product=tornozeleira-chique",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 85,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 2423.548,
+      "largest-contentful-paint": 3860.3219999999997,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 3096.32177307699,
+      "total-byte-weight": 484356,
+      "server-response-time": 170
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.7,
+        "displayValue": "2.4 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.53,
+        "displayValue": "3.9 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.93,
+        "displayValue": "3.1 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.89,
+        "displayValue": "3.9 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 59 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 394 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "displayValue": "Est savings of 17 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,700 ms"
+      }
+    ]
+  },
+  {
+    "id": "produto-76",
+    "label": "Escapulário Bonito",
+    "url": "http://localhost:8080/?product=escapulario-bonito",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product=escapulario-bonito",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 85,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 2424.182,
+      "largest-contentful-paint": 3786.2729999999997,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 3090.442169391578,
+      "total-byte-weight": 417739,
+      "server-response-time": 170
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.7,
+        "displayValue": "2.4 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.55,
+        "displayValue": "3.8 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.93,
+        "displayValue": "3.1 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.89,
+        "displayValue": "3.8 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 59 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 329 KiB"
+      },
+      {
+        "id": "font-display-insight",
+        "title": "Font display",
+        "score": 0.5,
+        "displayValue": "Est savings of 10 ms"
+      },
+      {
+        "id": "forced-reflow-insight",
+        "title": "Forced reflow",
+        "score": 0
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "displayValue": "Est savings of 9 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,670 ms"
+      }
+    ]
+  },
+  {
+    "id": "produto-34",
+    "label": "Pulseira prata",
+    "url": "http://localhost:8080/?product=pulseira-prata",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product=pulseira-prata",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 87,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 2428.886,
+      "largest-contentful-paint": 3529.4364999999993,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 3067.763172530528,
+      "total-byte-weight": 396097,
+      "server-response-time": 155
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.7,
+        "displayValue": "2.4 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.63,
+        "displayValue": "3.5 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.93,
+        "displayValue": "3.1 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.92,
+        "displayValue": "3.5 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 59 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 308 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,690 ms"
+      }
+    ]
+  },
+  {
+    "id": "produto-33",
+    "label": "Colar Elegance",
+    "url": "http://localhost:8080/?product=colar-elegance",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product=colar-elegance",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 86,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 2428.188,
+      "largest-contentful-paint": 3649.329,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 2983.310442834228,
+      "total-byte-weight": 439875,
+      "server-response-time": 156
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.7,
+        "displayValue": "2.4 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.59,
+        "displayValue": "3.6 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.94,
+        "displayValue": "3.0 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.91,
+        "displayValue": "3.6 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 59 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 350 KiB"
+      },
+      {
+        "id": "forced-reflow-insight",
+        "title": "Forced reflow",
+        "score": 0
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,670 ms"
+      }
+    ]
+  },
+  {
+    "id": "produto-29",
+    "label": "Anel Dourado",
+    "url": "http://localhost:8080/?product=colar-elegante",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?product=colar-elegante",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 87,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 2425.876,
+      "largest-contentful-paint": 3508.2210000000014,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0,
+      "speed-index": 3025.4392720796322,
+      "total-byte-weight": 390506,
+      "server-response-time": 171
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.7,
+        "displayValue": "2.4 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.63,
+        "displayValue": "3.5 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.94,
+        "displayValue": "3.0 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.92,
+        "displayValue": "3.5 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 59 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 302 KiB"
+      },
+      {
+        "id": "forced-reflow-insight",
+        "title": "Forced reflow",
+        "score": 0
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,660 ms"
+      }
+    ]
+  },
+  {
+    "id": "recuperar-senha",
+    "label": "Recuperar senha",
+    "url": "http://localhost:8080/?page_id=9&lost-password",
+    "formFactor": "mobile",
+    "finalUrl": "http://localhost:8080/?page_id=9&lost-password",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 94,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 58
+    },
+    "metrics": {
+      "first-contentful-paint": 2119.872,
+      "largest-contentful-paint": 2776.8719999999994,
+      "total-blocking-time": 7,
+      "cumulative-layout-shift": 0,
+      "speed-index": 2751.153736075398,
+      "total-byte-weight": 286889,
+      "server-response-time": 144
+    },
+    "warnings": [],
+    "failures": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.8,
+        "displayValue": "2.1 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.84,
+        "displayValue": "2.8 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.96,
+        "displayValue": "2.8 s"
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.97,
+        "displayValue": "2.8 s"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "score": 0.5,
+        "displayValue": "Est savings of 5 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "displayValue": "Est savings of 63 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 27 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "displayValue": "Est savings of 203 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "displayValue": "Est savings of 4 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "displayValue": "Est savings of 1,350 ms"
+      }
+    ]
+  }
+]
