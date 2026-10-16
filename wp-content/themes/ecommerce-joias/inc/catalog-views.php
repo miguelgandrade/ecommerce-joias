@@ -156,3 +156,12 @@ function ecommerce_joias_catalog_active_menu( $classes, $item ) {
 	return $classes;
 }
 add_filter( 'nav_menu_css_class', 'ecommerce_joias_catalog_active_menu', 10, 2 );
+
+/** Descrição das vitrines, sem duplicar a saída de plugins de SEO conhecidos. */
+function ecommerce_joias_catalog_meta_description() {
+	if ( ! is_shop() || defined( 'WPSEO_VERSION' ) || defined( 'RANK_MATH_VERSION' ) || defined( 'SEOPRESS_VERSION' ) || defined( 'AIOSEO_VERSION' ) ) {
+		return;
+	}
+	printf( '<meta name="description" content="%s">' . "\n", esc_attr( ecommerce_joias_catalog_view_content()['description'] ) );
+}
+add_action( 'wp_head', 'ecommerce_joias_catalog_meta_description', 5 );

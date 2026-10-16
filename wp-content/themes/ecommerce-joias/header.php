@@ -55,9 +55,10 @@ $header_has_hero = ecommerce_joias_has_header_hero();
 						)
 					);
 					?>
+					</ul>
 					<?php $header_categories = ecommerce_joias_get_header_categories(); ?>
 					<?php if ( $header_categories ) : ?>
-						<li class="menu-item nc-header__categories">
+						<div class="nc-header__categories">
 							<details class="nc-header__category-dropdown">
 								<summary><?php esc_html_e( 'Categorias', 'ecommerce-joias' ); ?> <span aria-hidden="true">⌄</span></summary>
 								<ul class="nc-header__category-submenu">
@@ -71,9 +72,8 @@ $header_has_hero = ecommerce_joias_has_header_hero();
 									<?php endforeach; ?>
 								</ul>
 							</details>
-						</li>
+						</div>
 					<?php endif; ?>
-					</ul>
 				</nav>
 
 				<div class="nc-header__utilities">
@@ -110,4 +110,4 @@ $header_has_hero = ecommerce_joias_has_header_hero();
 			</div>
 		</header>
 
-		<div id="content" class="site-content">
+		<div id="content" class="site-content"<?php if ( function_exists( 'is_woocommerce' ) && is_woocommerce() ) : ?> role="main" tabindex="-1"<?php endif; ?>>

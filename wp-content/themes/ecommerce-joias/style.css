@@ -84,7 +84,7 @@ a:focus-visible {
 	z-index: 1000;
 	border-top: 3px solid var(--nc-header-top-background);
 	border-bottom: 1px solid color-mix(in srgb, var(--nc-header-text) 15%, transparent);
-	background-color: color-mix(in srgb, var(--nc-header-surface) 96%, transparent);
+	background-color: var(--nc-header-surface);
 	box-shadow: 0 0.4rem 1.5rem rgba(51, 41, 39, 0.06);
 }
 
@@ -187,7 +187,9 @@ a:focus-visible {
 
 .nc-header__brand .custom-logo {
 	width: auto;
-	max-height: 2.4rem;
+	max-height: 3.5rem;
+	max-width: min(180px, 100%);
+	object-fit: contain;
 }
 
 .nc-header__actions {
@@ -216,15 +218,20 @@ a:focus-visible {
 }
 
 .nc-header__navigation {
+	display: flex;
+	align-items: center;
+	gap: clamp(0.75rem, 2vw, 1.75rem);
 	min-width: 0;
 	background-color: var(--nc-header-navigation-background);
 }
 
 .nc-header__menu {
 	display: flex;
+	flex: 1 1 auto;
+	min-width: 0;
 	justify-content: center;
 	gap: clamp(0.75rem, 2vw, 1.75rem);
-	width: 100%;
+	width: auto;
 	margin: 0 auto;
 	padding: 0;
 	list-style: none;
@@ -252,6 +259,14 @@ a:focus-visible {
 @media (max-width: 782px) {
 	.admin-bar .nc-header {
 		top: 46px;
+	}
+}
+
+/* A barra do WordPress deixa de ser fixa até 600 px. Seu espaço inicial já é
+ * reservado no html; manter top:46px deixava um vão após ela sair da tela. */
+@media (max-width: 600px) {
+	.admin-bar .nc-header {
+		top: 0;
 	}
 }
 
@@ -2879,6 +2894,10 @@ body.woocommerce-account .woocommerce-Addresses .woocommerce-Address {
 	position: relative;
 }
 
+.nc-header__categories {
+	flex: 0 0 auto;
+}
+
 .nc-header__category-dropdown > summary {
 	display: flex;
 	align-items: center;
@@ -2926,8 +2945,11 @@ body.woocommerce-account .woocommerce-Addresses .woocommerce-Address {
 }
 
 .nc-header .nc-header__category-submenu a {
+	display: block;
 	padding: 0.65rem 0;
 	color: var(--nc-header-text);
+	font-size: 0.85rem;
+	text-decoration: none;
 	white-space: normal;
 	overflow-wrap: anywhere;
 }
@@ -2943,8 +2965,18 @@ body.woocommerce-account .woocommerce-Addresses .woocommerce-Address {
 	}
 
 	.nc-header__menu {
-		flex-wrap: wrap;
-		overflow: visible;
+		flex-wrap: nowrap;
+		justify-content: flex-start;
+		overflow-x: auto;
+		scrollbar-width: thin;
+	}
+
+	.nc-header__menu > li {
+		flex: 0 0 auto;
+	}
+
+	.nc-header__navigation {
+		gap: 0.75rem;
 	}
 
 	.nc-header__category-dropdown {
@@ -3720,5 +3752,34 @@ body.woocommerce ul.products li.product .product-main-wrap .custom-cart-btn .but
 	.nc-cart-steps li > span {
 		width: 1.5rem;
 		height: 1.5rem;
+	}
+}
+
+/* Contraste da contagem sobre o fundo do catálogo. */
+.woocommerce .woocommerce-result-count {
+	color: var(--nc-color-text);
+}
+
+/* Tablets também precisam de duas áreas para evitar colisão entre menu e busca. */
+@media (min-width: 641px) and (max-width: 1000px) {
+	.nc-header__row {
+		grid-template-columns: minmax(0, 1fr) auto;
+		gap: 0.25rem 1rem;
+		padding-block: 0.5rem;
+	}
+
+	.nc-header__brand {
+		grid-column: 1;
+		grid-row: 1;
+	}
+
+	.nc-header__utilities {
+		grid-column: 2;
+		grid-row: 1;
+	}
+
+	.nc-header__navigation {
+		grid-column: 1 / -1;
+		grid-row: 2;
 	}
 }
